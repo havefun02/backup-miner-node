@@ -145,14 +145,14 @@ class MiningClient:
                 try:
                     time.sleep(0.1)
                     self.client_socket.sendall(data)
-                    self.logger.log_info(f"Submit block network: NONCE:{res["nonce"]}, Curtime: {res["curtime"]}, Hash: {res["hash"]}")
+                    self.logger.log_info(f"Submit block network: NONCE:{res['nonce']}, Curtime: {res['curtime']}, Hash: {res['hash']}")
                 except socket.error as e:
                     self.log_critical(f"Fail to submit block {e}")
                 break
             elif status==2:
                 data = submit_method(res["job_id"], res["nonce"], res["curtime"], username)
                 self.client_socket.sendall(data)
-                self.logger.log_info(f"Submit share: NONCE:{res["nonce"]}, Curtime: {res["curtime"]}, Hash: {res["hash"]}")
+                self.logger.log_info(f"Submit share: NONCE:{res['nonce']}, Curtime: {res['curtime']}, Hash: {res['hash']}")
             else:
                 t = request_job_method(username)
                 self.client_socket.sendall(t)
