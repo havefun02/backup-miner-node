@@ -36,8 +36,8 @@ def request_job_method(username):
     data=urn
     frame=Frame(request_job,len(data),data)
     return frame.create_frame()
-def submit_method(job_id,nonce,ntime,username):
-    payload=job_id.to_bytes(4,byteorder="big").hex()+nonce.to_bytes(4,byteorder="big").hex()+ntime.to_bytes(4,byteorder="big").hex()+Frame.string_to_hex(username)
+def submit_method(job_id,nonce,ntime,hashrate,username):
+    payload=job_id.to_bytes(4,byteorder="big").hex()+nonce.to_bytes(4,byteorder="big").hex()+ntime.to_bytes(4,byteorder="big").hex()+int(hashrate).to_bytes(4,byteorder="big").hex()+Frame.string_to_hex(username)
     frame=Frame(submit_job,len(payload),payload)
     return frame.create_frame()
 def request_target_handler():
@@ -77,7 +77,7 @@ def new_job_handler(data):
 
 def submit_success_handler(data):
     logger=Logger()
-    logger.log_info("Id share: "+data.decode("utf-8"))
+    # logger.log_info("Id share: "+data.decode("utf-8"))
     return ""
 
 def submit_error_handler(data):

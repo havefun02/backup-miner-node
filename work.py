@@ -9,6 +9,7 @@ import random
 import time
 import os
 import sys
+
 def int2varinthex(value):
     """
     Convert an unsigned integer to little endian varint ASCII hex string.
@@ -138,7 +139,10 @@ def block_make_submit(block):
 
 
 
-def block_mine(block_template, timeout=None, debugnonce_start=False):
+def block_mine(block_template,stop_event, timeout=None, debugnonce_start=False):
+    time_start=time.time()
+    hashrate,hash_count=0.0,0
+
     nonce=0
     if (block_template['nonce'] is None):
         block_template['nonce'] = 0
@@ -150,6 +154,8 @@ def block_mine(block_template, timeout=None, debugnonce_start=False):
     block_header = block_make_header(block_template)
 
     while nonce <= 0xffffffff:
+        if (stop_event.is_set()):
+            return (3,None)
         # Update the block header with the new 32-bit nonce
         block_header = block_header[0:76] + nonce.to_bytes(4, byteorder='little')
 
@@ -158,14 +164,20 @@ def block_mine(block_template, timeout=None, debugnonce_start=False):
 
         # Check if it the block meets the target hash
         if block_hash < target_hash:
+            hashrate=hash_count/(time.time()-time_start)
             block_template['nonce'] = nonce
             block_template['hash'] = block_hash.hex()
+            block_template['hashrate']=hashrate
             return (1,block_template)
         elif block_hash<target_share_hash:
+            hashrate=hash_count/(time.time()-time_start)
             block_template['nonce'] = nonce
             block_template['hash'] = block_hash.hex()
+            block_template['hashrate']=hashrate
+            print(hash_count,time.time()-time_start)
             return (2,block_template)
+        hash_count+=1
         nonce += 1
-    print("run out of nonce")
+    # print("run out of nonce")
     return (None,None)
     
