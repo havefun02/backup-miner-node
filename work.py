@@ -174,7 +174,7 @@ def block_mine(block_template,stop_event, timeout=None, debugnonce_start=False):
             block_template['nonce'] = nonce
             block_template['hash'] = block_hash.hex()
             block_template['hashrate']=hashrate
-            print(hash_count,time.time()-time_start)
+            # print(hash_count,time.time()-time_start)
             return (2,block_template)
         hash_count+=1
         nonce += 1

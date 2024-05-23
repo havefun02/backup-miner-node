@@ -60,7 +60,7 @@ class MiningClient:
             res = new_job_handler(data)
             # if (self.mining_thread is not None and self.mining_thread.is_alive()):
                 # self.mining_thread.join()
-            self.logger.log_info("Start mining")
+            # self.logger.log_info("Start mining")
             self.mining_thread=None
             self.mining_thread = threading.Thread(target=self.mining, args=(res,))
             self.mining_thread.start()

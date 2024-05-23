@@ -1,4 +1,8 @@
-SERVER_IP="127.0.0.1"
-SERVER_PORT=3002
-USERNAME="username"
-PASSWORD="password"
+import configparser
+config = configparser.ConfigParser()
+config.read('config.ini')
+
+SERVER_IP=config['server']['SERVER_IP']
+SERVER_PORT=config['server']['SERVER_PORT']
+USERNAME=config['user']['USERNAME']
+PASSWORD=config['user']['PASSWORD']
