@@ -1,0 +1,28 @@
+hello=0x01
+ack_hello=0x02
+hello_ok=0x03
+open_connection = 0x04
+open_success = 0x05
+open_error = 0x06
+request_job = 0x07
+notify_job = 0x08
+submit_job = 0x09
+submit_success = 0x10
+submit_error = 0x11
+set_target = 0x12
+request_target=0x13
+notify_target=0x14
+set_block=0x15
+register=0xff
+
+
+unknown_user=0x16
+job_not_found=0x17
+duplicate_share=0x18
+low_difficulty_share=0x19
+unauthorize=0x20
+request_job_error=0x21
+job_not_found=0x22
+job_is_old=0x23
+
+

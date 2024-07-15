@@ -1,0 +1,802 @@
+2024-05-23 11:17:26,022     -      INFO      -     Connected to 127.0.0.1:3002
+2024-05-23 11:17:26,065     -      INFO      -     Authorize success
+2024-05-23 11:17:28,577     -      INFO      -     Receive job from pool
+2024-05-23 11:17:28,577     -      INFO      -     Start mining
+2024-05-23 11:17:28,578     -      INFO      -     Start new block
+2024-05-23 11:17:29,060     -      INFO      -     Submit share: NONCE:152494, Curtime: 1716437842, Hash: 0000f4c7c4faf336172994c471538a83a80399d6cf5d11c9db3d70b83f951643, Hashrate: 316975.35990231147
+2024-05-23 11:17:29,474     -      INFO      -     Submit share: NONCE:237663, Curtime: 1716437842, Hash: 0000df18b4eeb31bec9160e2bc8796f1a46a44c0c49a3e90a24dbc069b0f88c2, Hashrate: 206231.67464835243
+2024-05-23 11:17:29,626     -      INFO      -     Submit share: NONCE:267818, Curtime: 1716437842, Hash: 000013b032452011708922dee15aaf1bf355bebf1e3a2711a7b7e981b898cc33, Hashrate: 198722.64913581798
+2024-05-23 11:17:29,869     -      INFO      -     Submit share: NONCE:315982, Curtime: 1716437842, Hash: 00009a32f20e1601a7d9044f126d9082d6c57c9d71990e546ce2162190a21f4b, Hashrate: 198945.89985651016
+2024-05-23 11:17:30,717     -      INFO      -     Submit share: NONCE:475508, Curtime: 1716437842, Hash: 00000e4360658e99b9ceb7e5c6643655ecc427aceb84601a68bb4c41945f62a8, Hashrate: 188255.75506979373
+2024-05-23 11:17:30,922     -      INFO      -     Submit share: NONCE:525707, Curtime: 1716437842, Hash: 0000677d5abb64d9bf1575d6aef8e2361d1303a2961f55a78c8524544a30be9b, Hashrate: 244864.112094361
+2024-05-23 11:17:31,509     -      INFO      -     Submit share: NONCE:655987, Curtime: 1716437842, Hash: 00001a60c7966d57aff1bd3ec1fcffd9cc142bbc90c0bdde2e11d616734d7dec, Hashrate: 222380.0166841053
+2024-05-23 11:17:31,592     -      INFO      -     Submit share: NONCE:674089, Curtime: 1716437842, Hash: 00006b7aab6db5a3e67d45028bee5c65730c8c3b6cf681b129885e7a5f24a8f9, Hashrate: 219335.7524939259
+2024-05-23 11:17:32,859     -      INFO      -     Submit share: NONCE:899987, Curtime: 1716437842, Hash: 0000e84d7e83181769a9045ea330fa8708dc19b557c5dac4bf90f249264d67d1, Hashrate: 178479.62600607576
+2024-05-23 11:17:33,225     -      INFO      -     Submit share: NONCE:977603, Curtime: 1716437842, Hash: 000055b9de464b3bfa5f7fe824ca8015592ab83e952c701a41982fcdbdace8ea, Hashrate: 212625.63581119388
+2024-05-23 11:17:33,725     -      INFO      -     Submit share: NONCE:1063312, Curtime: 1716437842, Hash: 0000785fee8057b685ebcf6cc538212c51de0018fc9d0fb69cd66725b103b123, Hashrate: 171604.77612042896
+2024-05-23 11:17:34,266     -      INFO      -     Submit share: NONCE:1180154, Curtime: 1716437842, Hash: 00005c1a5a4d08aa27b399d65bc88925a5256504953f76b01a16cfecaa172cf5, Hashrate: 215972.7936264082
+2024-05-23 11:17:34,890     -      INFO      -     Submit share: NONCE:1323576, Curtime: 1716437842, Hash: 0000fd9b6f4f547c1ad06489828d6ca8a07b9a245d87739ab37c545af806d4c3, Hashrate: 230084.30503021248
+2024-05-23 11:17:35,125     -      INFO      -     Submit share: NONCE:1370133, Curtime: 1716437842, Hash: 0000ce95c130b06dc507ad55594ac71de035dd471daeed6f601d273c5511d2cf, Hashrate: 198982.63502835913
+2024-05-23 11:17:35,370     -      INFO      -     Submit share: NONCE:1422845, Curtime: 1716437842, Hash: 000036337fae5705756c643642e125913fe1af1f46acedb0f66a938d2da7f1ac, Hashrate: 215444.1228976785
+2024-05-23 11:17:35,724     -      INFO      -     Submit share: NONCE:1500629, Curtime: 1716437842, Hash: 0000690e28add10476fb714ef04db77e9a36491b60142870677a2339f528ecca, Hashrate: 219634.21939889755
+2024-05-23 11:17:35,807     -      INFO      -     Submit share: NONCE:1515410, Curtime: 1716437842, Hash: 00009fafe2abb804329f9e5b82375c8a82f615e3ec2ed751e623a7f2ada565a0, Hashrate: 178946.76819869177
+2024-05-23 11:17:36,430     -      INFO      -     Submit share: NONCE:1675128, Curtime: 1716437842, Hash: 0000f8817ad74c1238668d3825895d5bef910fe7a1812cbdb38cd8076dc04483, Hashrate: 256476.85816738376
+2024-05-23 11:17:36,912     -      INFO      -     Submit share: NONCE:1758372, Curtime: 1716437842, Hash: 0000490714163ea29b68ab45b01911101de441986dad38b1c522b57906b278df, Hashrate: 172854.78806049656
+2024-05-23 11:25:10,582     -      INFO      -     Connected to 127.0.0.1:3002
+2024-05-23 11:25:10,620     -      INFO      -     Authorize success
+2024-05-23 11:25:11,690     -      INFO      -     Receive job from pool
+2024-05-23 11:25:11,690     -      INFO      -     Start mining
+2024-05-23 11:25:11,691     -      INFO      -     Start new block
+2024-05-23 11:25:11,798     -      INFO      -     Submit share: NONCE:35503, Curtime: 1716438303, Hash: 0000a42e1480c2b18fcdfa4beb2ba876684c2beeb542e390b9a5730ba69b47b2, Hashrate: 332833.50300624495
+2024-05-23 11:25:11,808     -      INFO      -     Submit share: NONCE:39524, Curtime: 1716438303, Hash: 000051adcee07a0b9d12f46ce67ebee0c8bd2b3c82128d6aac09dabb530ec8e9, Hashrate: 396610.4974948839
+2024-05-23 11:25:12,649     -      INFO      -     Submit share: NONCE:226966, Curtime: 1716438303, Hash: 000042b3a3d81e15ebd80fe2a2cb5b00ce2b673a9a2ffd9f906a21b815d8c851, Hashrate: 223025.12672399657
+2024-05-23 11:25:12,691     -      INFO      -     Submit share: NONCE:235960, Curtime: 1716438303, Hash: 00009e2ccce8f4b6a38d1921ffba05889f100595a5c5604ba8277a0eb14be0b4, Hashrate: 217881.20236369202
+2024-05-23 11:25:12,729     -      INFO      -     Submit share: NONCE:246195, Curtime: 1716438303, Hash: 00003e22032b79adb1c52c58776ca21846ddde3f3224604c547baec034a9cc7a, Hashrate: 285795.65716111934
+2024-05-23 11:25:12,930     -      INFO      -     Submit share: NONCE:292519, Curtime: 1716438303, Hash: 0000ab1bf5e2e75dd5e0c0117a73a4d61462d148469c3b17b296d2c7037d7f9c, Hashrate: 231068.1672886593
+2024-05-23 11:25:13,068     -      INFO      -     Submit share: NONCE:306910, Curtime: 1716438303, Hash: 00006b790e265f1a114934b6ff6f5af73f2abed5e97ea3fbc2c1c2af8893e74f, Hashrate: 104646.70670642902
+2024-05-23 11:25:13,416     -      INFO      -     Submit share: NONCE:365727, Curtime: 1716438303, Hash: 000027a7bfbf88d63ad3752c5d768045b67cedb8dc740314e5e8ec8f2f79e027, Hashrate: 169273.21649474633
+2024-05-23 11:25:13,513     -      INFO      -     Submit share: NONCE:394862, Curtime: 1716438303, Hash: 0000ebba7754e9886e2bb1494665aa2e191074546a218b01cd1633eded26bf03, Hashrate: 304293.9743161302
+2024-05-23 11:25:14,189     -      INFO      -     Submit share: NONCE:543883, Curtime: 1716438303, Hash: 000036479410c2dba32309e476f4da7eda5f0d3881b19da2df45d7f98bf1670d, Hashrate: 220486.20718751632
+2024-05-23 11:25:14,673     -      INFO      -     Submit share: NONCE:659377, Curtime: 1716438303, Hash: 000083b292511060d7e89d3aaf2464ce0b9064b51a168b01d1b192a1c3baa9ef, Hashrate: 238948.55138639786
+2024-05-23 11:25:14,925     -      INFO      -     Submit share: NONCE:728708, Curtime: 1716438303, Hash: 0000acbdb54ff7b0aa92cf72e023ff67e2e53d503dd6fc8f1e49804964ed7049, Hashrate: 302353.0780236234
+2024-05-23 11:25:15,126     -      INFO      -     Submit share: NONCE:748779, Curtime: 1716438303, Hash: 00001d9b6a967b6b2939303699ff4dfe8393e3042957e6b055f8b85bc22d9cd6, Hashrate: 100982.57603712066
+2024-05-23 11:25:15,454     -      INFO      -     Submit share: NONCE:789474, Curtime: 1716438303, Hash: 00003d656a00a5c71edf75e2a167d9f297a839c080c47aa6325f3ea85779642e, Hashrate: 125362.00835389245
+2024-05-23 11:25:15,880     -      INFO      -     Submit share: NONCE:843502, Curtime: 1716438303, Hash: 0000744368fbac029228c7b50a4f5a7ac18390aef484c8bd76919408cbb9a72d, Hashrate: 127225.71344162781
+2024-05-23 11:25:15,907     -      INFO      -     Submit share: NONCE:848092, Curtime: 1716438303, Hash: 0000a429a6f985c813c95ec87897b8533c68e2c8c8eb7b4030b259124cf98e34, Hashrate: 175102.90074780298
+2024-05-23 11:25:15,994     -      INFO      -     Submit share: NONCE:862966, Curtime: 1716438303, Hash: 00009b6d3e6a67b0bb6696ada12ccdeecdc0726b254dea6404e1d3e9764acf2c, Hashrate: 171440.50026795358
+2024-05-23 11:25:16,510     -      INFO      -     Submit share: NONCE:945851, Curtime: 1716438303, Hash: 0000c0fdc7cbba603fe0bcd6ac5fd6ad3b4730414f81aff993593fdd10f42036, Hashrate: 160756.76904508893
+2024-05-23 11:25:16,523     -      INFO      -     Submit share: NONCE:948204, Curtime: 1716438303, Hash: 00007e27e50b17f5dc31b5ead71279693dc071c22ca09696fb1a9ec7804638ac, Hashrate: 196553.15815899582
+2024-05-23 11:25:16,600     -      INFO      -     Submit share: NONCE:960867, Curtime: 1716438303, Hash: 00003bf4d2917f42fc939f9c8aa9269f2c5931cea15b7d0ced173be993633904, Hashrate: 165102.76822064986
+2024-05-23 11:25:16,769     -      INFO      -     Submit share: NONCE:983902, Curtime: 1716438303, Hash: 0000c7c2f1cd3741e398372d7d8f24071a2447db2d9690cca7ce463d0e071f7e, Hashrate: 141705.77775691723
+2024-05-23 11:25:16,848     -      INFO      -     Submit share: NONCE:990956, Curtime: 1716438303, Hash: 0000858abf004499df7c0f65e670678be846998d29a7dd5571ac50cef3cedb02, Hashrate: 90149.6462327974
+2024-05-23 11:25:18,018     -      INFO      -     Submit share: NONCE:1231546, Curtime: 1716438303, Hash: 0000b7574ff86b8f47cc7d3a9a3b7ea3f1b05f56b9521af9be359679c44b658a, Hashrate: 205674.569968353
+2024-05-23 11:25:18,444     -      INFO      -     Submit block network: NONCE:1291423, Curtime: 1716438303, Hash: 0000092bb60ced2606ed6dd4c7e10d0b4ceb54d3d72bdd547c3395547203b739, Hashrate: 198656.32400346786
+2024-05-23 11:25:18,471     -      INFO      -     Request new job from pool
+2024-05-23 11:25:18,579     -      INFO      -     Receive job from pool
+2024-05-23 11:25:18,579     -      INFO      -     Start mining
+2024-05-23 11:25:18,579     -      INFO      -     Start new block
+2024-05-23 11:25:18,632     -      INFO      -     Submit share: NONCE:12287, Curtime: 1716438318, Hash: 000033f591611cdc34b44d047aea5746dda4aa8cbd0590eced767c916a36a027, Hashrate: 234939.61071500208
+2024-05-23 11:25:18,887     -      INFO      -     Submit share: NONCE:80116, Curtime: 1716438318, Hash: 0000e9c4a5bb543d40c9a38944a4bf67c62d4b9800535316231196582b770f6f, Hashrate: 266346.15364853956
+2024-05-23 11:25:18,895     -      INFO      -     Submit share: NONCE:82502, Curtime: 1716438318, Hash: 000031fc32c3246707b64b192d29b2166b2087f8a3d2bc8719a9fd1804289c9c, Hashrate: 331216.9737103503
+2024-05-23 11:25:20,147     -      INFO      -     Submit share: NONCE:394250, Curtime: 1716438318, Hash: 000075b8b133c436317f5f3a33f20786650ebc55339320fd2a5b82483167bda6, Hashrate: 248932.1057744955
+2024-05-23 11:25:21,065     -      INFO      -     Submit share: NONCE:650290, Curtime: 1716438318, Hash: 0000989146cd5e57fcc4f182de28b1679257cee6f23839279a4242e41e488be8, Hashrate: 279279.00189687195
+2024-05-23 11:25:21,105     -      INFO      -     Submit share: NONCE:657556, Curtime: 1716438318, Hash: 00001204a4d3cc3164286f9b61f249cbae1982d37980c9d99f8c14cac22ab508, Hashrate: 183612.63563836197
+2024-05-23 11:25:21,147     -      INFO      -     Submit share: NONCE:663003, Curtime: 1716438318, Hash: 0000e8e074b69751415a5cea6684e7051d6303d93c63a95316087c125775d38c, Hashrate: 131718.9854684689
+2024-05-23 11:25:21,383     -      INFO      -     Submit share: NONCE:698211, Curtime: 1716438318, Hash: 00006a9fcad9ca2cddcf5035de3b02a038a7a8a187d758d90690dbd1bf4bb8fe, Hashrate: 149752.061860542
+2024-05-23 11:25:21,559     -      INFO      -     Submit share: NONCE:740697, Curtime: 1716438318, Hash: 00002a31c6cf56e41cba2473fde72e56b14abecca0e0ee8134cdd5d88d4c6035, Hashrate: 241415.42966918927
+2024-05-23 11:25:22,087     -      INFO      -     Submit share: NONCE:850893, Curtime: 1716438318, Hash: 0000634613259a47a606341ae67e38b34a827908deda1176d6e10e4d94b01b0a, Hashrate: 208931.10400597422
+2024-05-23 11:25:22,453     -      INFO      -     Submit share: NONCE:910053, Curtime: 1716438318, Hash: 000087e9a51971c2d3bf70e17ccca91c44cee6502b948d55bc62101d6987384f, Hashrate: 161823.32883945154
+2024-05-23 11:25:22,920     -      INFO      -     Submit share: NONCE:1038059, Curtime: 1716438318, Hash: 000071f472d402cbc62368be54d057cecd1b9bbb0a20237bc3cb7c0dfc029d42, Hashrate: 274318.9738302181
+2024-05-23 11:25:22,935     -      INFO      -     Submit share: NONCE:1043384, Curtime: 1716438318, Hash: 0000715d9f67b947f6a353075d8fdf4f94c59d2c299dd872a592216cb52824f4, Hashrate: 377439.86099420243
+2024-05-23 11:25:23,000     -      INFO      -     Submit share: NONCE:1053554, Curtime: 1716438318, Hash: 00007c4bd694ed6b0edf26e059027a1e3fa05b0ab50a7e42d8fa9690843df288, Hashrate: 239803.20347235497
+2024-05-23 11:25:23,238     -      INFO      -     Submit share: NONCE:1112784, Curtime: 1716438318, Hash: 00000e4ce3cb8369370d485ed8c04d8525b5b22589bb6ab197ff416b9415db7e, Hashrate: 249001.6173650522
+2024-05-23 11:25:23,518     -      INFO      -     Submit share: NONCE:1184396, Curtime: 1716438318, Hash: 0000f4c324474c6109578c2a60dbdf0e5f4fd09e51ac54c98bf6136b6608def9, Hashrate: 256404.43062802198
+2024-05-23 11:25:24,075     -      INFO      -     Submit share: NONCE:1344446, Curtime: 1716438318, Hash: 00006552b5d70897912c6599b885a9a1e92a61bade7aa2272ca619ac75e883a2, Hashrate: 287341.7684175562
+2024-05-23 11:25:24,368     -      INFO      -     Submit share: NONCE:1411813, Curtime: 1716438318, Hash: 00007ac1920b7164605be24da5f44caa10ac6bf1e9caad7a398a2080a8d6e217, Hashrate: 230518.34641042774
+2024-05-23 11:25:24,372     -      INFO      -     Submit share: NONCE:1412598, Curtime: 1716438318, Hash: 0000fb01206b2cea107d9e20ad38790488407cdb30a093865ae47edd5d9151bc, Hashrate: 216937.21704710383
+2024-05-23 11:25:24,410     -      INFO      -     Submit share: NONCE:1422255, Curtime: 1716438318, Hash: 0000b8642999e66025992c73147647140b0485b4c74a32106ec67afe7b11eaf3, Hashrate: 259412.12649001108
+2024-05-23 11:25:24,413     -      INFO      -     Submit share: NONCE:1422535, Curtime: 1716438318, Hash: 00005c52c018dc258c27be271b3e14b1b7f4a2cb5d2ac175ccdfc37cbfa12f39, Hashrate: 161810.1238938053
+2024-05-23 11:25:24,785     -      INFO      -     Submit share: NONCE:1505088, Curtime: 1716438318, Hash: 0000e52b97e68d83235768aa387535c37db4e41fa5307fbf03843b6a58635491, Hashrate: 222248.87113541688
+2024-05-23 11:25:24,862     -      INFO      -     Submit share: NONCE:1518356, Curtime: 1716438318, Hash: 0000d7b696d6c8af553defc8122a821f5ffdac20914653929cf8702b54355344, Hashrate: 172243.45307600638
+2024-05-23 11:25:24,934     -      INFO      -     Submit share: NONCE:1538943, Curtime: 1716438318, Hash: 000027fcbee1196b115d0621d02c10be3c0f4dd1fa05b011d5698f0bf0a20559, Hashrate: 287242.4854089875
+2024-05-23 11:25:24,969     -      INFO      -     Submit share: NONCE:1543867, Curtime: 1716438318, Hash: 00003f81f8feac41b42582a6c794b0fc6d37ed3bb2f114d70617c9b54c936d38, Hashrate: 141163.56011321218
+2024-05-23 11:25:25,059     -      INFO      -     Submit share: NONCE:1574849, Curtime: 1716438318, Hash: 00002159d93994dbbfb39770b91b0c1f962562a649907ebd53b02a3a1a22c784, Hashrate: 346310.6798463847
+2024-05-23 11:25:25,302     -      INFO      -     Submit block network: NONCE:1601204, Curtime: 1716438318, Hash: 000000f52de0da5ee0913982e22dc36134d18eff1fdab6ab226c027dbb9317b9, Hashrate: 221863.6535660021
+2024-05-23 11:25:25,341     -      INFO      -     Request new job from pool
+2024-05-23 11:25:25,468     -      INFO      -     Receive job from pool
+2024-05-23 11:25:25,469     -      INFO      -     Start mining
+2024-05-23 11:25:25,471     -      INFO      -     Start new block
+2024-05-23 11:25:25,992     -      INFO      -     Submit share: NONCE:83270, Curtime: 1716438325, Hash: 00002ae8e9bcc3683edeaffcc0b6bc733ef4e70b0616c2d8312e6e039771838d, Hashrate: 161288.39369069325
+2024-05-23 11:25:26,704     -      INFO      -     Submit block network: NONCE:170208, Curtime: 1716438325, Hash: 0000094d83bda85feb75ef1d8e29061f2c9ae4c58ccac720beaddbaa2c9cdec6, Hashrate: 164562.6423734122
+2024-05-23 11:25:26,811     -      INFO      -     Request new job from pool
+2024-05-23 11:25:26,843     -      INFO      -     Receive job from pool
+2024-05-23 11:25:26,844     -      INFO      -     Start mining
+2024-05-23 11:25:26,846     -      INFO      -     Start new block
+2024-05-23 11:25:32,734     -      INFO      -     Submit block network: NONCE:1417297, Curtime: 1716438326, Hash: 000008516b6cf448a228a1c70290f0922af37c3bcc47a15ba638085433d5f2ab, Hashrate: 244968.0083201953
+2024-05-23 11:25:32,765     -      INFO      -     Request new job from pool
+2024-05-23 11:25:32,846     -      INFO      -     Receive job from pool
+2024-05-23 11:25:32,847     -      INFO      -     Start mining
+2024-05-23 11:25:32,848     -      INFO      -     Start new block
+2024-05-23 11:26:20,548     -      INFO      -     Connected to 127.0.0.1:3002
+2024-05-23 11:26:20,626     -      INFO      -     Authorize success
+2024-05-23 11:26:22,420     -      INFO      -     Receive job from pool
+2024-05-23 11:26:22,420     -      INFO      -     Start mining
+2024-05-23 11:26:22,421     -      INFO      -     Start new block
+2024-05-23 11:26:22,443     -      INFO      -     Submit share: NONCE:10284, Curtime: 1716438376, Hash: 0000ca2cb8740c3b7f39a70b8d0f7a26191bc4f02ff3a8f15400b030e9c2cd59, Hashrate: 469447.2572293025
+2024-05-23 11:26:22,655     -      INFO      -     Submit share: NONCE:37369, Curtime: 1716438376, Hash: 0000a8276236c1585033a18064e021beddd107c807598bd592ad813cff2bea08, Hashrate: 128284.97875930107
+2024-05-23 11:26:22,709     -      INFO      -     Submit share: NONCE:45285, Curtime: 1716438376, Hash: 00004d4a564a775a99b7e2439ad997e48f562083677c01421ab3a6746bec1b5f, Hashrate: 157386.8173629416
+2024-05-23 11:26:22,886     -      INFO      -     Submit share: NONCE:92631, Curtime: 1716438376, Hash: 000086a469fd7b76a241186f541fe3ab293a336afbec07c09ebc857387b40a95, Hashrate: 267873.69354810426
+2024-05-23 11:26:22,907     -      INFO      -     Submit share: NONCE:95223, Curtime: 1716438376, Hash: 0000d8aad0c31d4f802a9f78dcf45fdac00e056d26b1a6700740bfa3e82bb829, Hashrate: 127319.01288720184
+2024-05-23 11:26:23,310     -      INFO      -     Submit share: NONCE:184390, Curtime: 1716438376, Hash: 0000c41573b551a49e758f0e885f280d74ca2a6b1deef4eb4a36e47afb1d0970, Hashrate: 230081.99548558838
+2024-05-23 11:26:24,569     -      INFO      -     Submit share: NONCE:493441, Curtime: 1716438376, Hash: 0000cee8c74a45da5717d2564eed00e61531ac2d4f51b675841f6ee31428e767, Hashrate: 245522.75311342822
+2024-05-23 11:26:25,644     -      INFO      -     Submit share: NONCE:694206, Curtime: 1716438376, Hash: 0000e9d0f512073a85297a3739f4c64817e9aa0e073e871551b6a5cb455d42bc, Hashrate: 186815.62133588555
+2024-05-23 11:26:26,119     -      INFO      -     Submit share: NONCE:755663, Curtime: 1716438376, Hash: 00001786f0333ca6f7130b0a7b9463ba04529b8a8a89e002ceb60475b985bb55, Hashrate: 129484.74210516005
+2024-05-23 11:26:26,492     -      INFO      -     Submit share: NONCE:840625, Curtime: 1716438376, Hash: 00001b5c55e401e4731c538ba6c744122f16647c632d3e81ed4bd8e6bd7bf58b, Hashrate: 227971.48704405993
+2024-05-23 11:26:26,886     -      INFO      -     Submit block network: NONCE:906209, Curtime: 1716438376, Hash: 00000763fad1eac245449576ee139efe62bb47e7bc7f8f5e3e1b5e397baa7105, Hashrate: 232562.39995738928
+2024-05-23 11:26:26,936     -      INFO      -     Request new job from pool
+2024-05-23 11:26:27,048     -      INFO      -     Receive job from pool
+2024-05-23 11:26:27,048     -      INFO      -     Start mining
+2024-05-23 11:26:27,049     -      INFO      -     Start new block
+2024-05-23 11:26:27,138     -      INFO      -     Submit share: NONCE:22282, Curtime: 1716438386, Hash: 00005364135985f61c3cb3a6f3ae150851d2760a20af48188c79f6824e9f0630, Hashrate: 250595.21783011834
+2024-05-23 11:26:27,309     -      INFO      -     Submit share: NONCE:46724, Curtime: 1716438386, Hash: 0000d7612df0aeee572a0d57b6bafb7bcaba1e3d2f50da43f87c8c2a1e84d5ea, Hashrate: 143859.7006188692
+2024-05-23 11:26:27,339     -      INFO      -     Submit share: NONCE:52838, Curtime: 1716438386, Hash: 000041ae42f622850ebf0e9051d516e43b4a129a2258ff4e740d15ec67c435c6, Hashrate: 207818.21709246532
+2024-05-23 11:26:28,941     -      INFO      -     Submit share: NONCE:363557, Curtime: 1716438386, Hash: 00007120ead9b0e9b82605a925c48f9e1fa70cd92ec22f020b8c8f18898090a8, Hashrate: 193890.1673184244
+2024-05-23 11:26:29,053     -      INFO      -     Submit share: NONCE:384929, Curtime: 1716438386, Hash: 0000ef3b4794af9064862f0e88c1004f7c23bf42f3419535f03e53fd5f27e23d, Hashrate: 191646.80946811853
+2024-05-23 11:26:29,159     -      INFO      -     Submit share: NONCE:407381, Curtime: 1716438386, Hash: 0000f14ce820d755c6bd617ea0cd95c83d0b2a2a3e4a748dfdbea38c2491d237, Hashrate: 212955.39251178232
+2024-05-23 11:26:29,645     -      INFO      -     Submit share: NONCE:505578, Curtime: 1716438386, Hash: 0000bc56cdfc60b1f417cccadc97805592736bf70277d2beabaa9c02aad1f442, Hashrate: 202464.43071928615
+2024-05-23 11:26:29,669     -      INFO      -     Submit share: NONCE:509058, Curtime: 1716438386, Hash: 0000d33d248cad84c2a9a0b784677d96ad228962c4f2bf0d1cc6d786f46d8dae, Hashrate: 152556.02316779926
+2024-05-23 11:26:29,846     -      INFO      -     Submit share: NONCE:541151, Curtime: 1716438386, Hash: 0000194ea63fbe8b0d4ad18ef2c3a1edd41d98b83a7ef32c79e0f25b12117139, Hashrate: 181526.5950487452
+2024-05-23 11:26:29,893     -      INFO      -     Submit share: NONCE:551089, Curtime: 1716438386, Hash: 00003e56791a17a1be255b26ef187153a8f45ad00e26400e66225cecc2656ab9, Hashrate: 211057.54039984607
+2024-05-23 11:26:30,361     -      INFO      -     Submit share: NONCE:632002, Curtime: 1716438386, Hash: 0000bbe61842ace9b89d0b4ada4163011c691652c162ae5958618b3df8357eaa, Hashrate: 173360.9686445929
+2024-05-23 11:26:31,156     -      INFO      -     Submit share: NONCE:732020, Curtime: 1716438386, Hash: 0000ccc13beec7613c7e3d9808935becfd3ecae11ff7b00d843aab890ccb9f38, Hashrate: 126918.8119745522
+2024-05-23 11:26:31,268     -      INFO      -     Submit share: NONCE:749088, Curtime: 1716438386, Hash: 0000d2a7462481cde7b747e061d11e25b5657f210687ed3ffb85877d288c4889, Hashrate: 153275.67745900148
+2024-05-23 11:26:32,771     -      INFO      -     Submit share: NONCE:1035083, Curtime: 1716438386, Hash: 000062cbc513553b46eb98d5938df68fd4e6ff9e50ef610e6089c98259a4bff2, Hashrate: 190366.68320987083
+2024-05-23 11:26:33,007     -      INFO      -     Submit share: NONCE:1088473, Curtime: 1716438386, Hash: 0000aadd2e38a25d854a3940b8af5b64c91f54d76128260dc647751020cad555, Hashrate: 225962.22648321654
+2024-05-23 11:26:33,068     -      INFO      -     Submit share: NONCE:1100174, Curtime: 1716438386, Hash: 00003db50f72d62afbe6a025c968b54038ad5b9a5f4fe4ce87f2dc9ba7e39455, Hashrate: 193439.80322285643
+2024-05-23 11:26:33,189     -      INFO      -     Submit share: NONCE:1121653, Curtime: 1716438386, Hash: 0000e2c7feb6126d692daf2078c956711946b1b88a8057045340385b8d211758, Hashrate: 178554.9573697188
+2024-05-23 11:26:33,210     -      INFO      -     Submit share: NONCE:1125212, Curtime: 1716438386, Hash: 00006d86af7bab50174f1ff948e811e4f85885c129bf9fb8a6a8c7da35b7cd83, Hashrate: 183798.47811414636
+2024-05-23 11:26:33,567     -      INFO      -     Submit share: NONCE:1191797, Curtime: 1716438386, Hash: 00007e08fa1bb4dca4fa00dcdf49dbbfac82b5eead9104c1dce874f8f014aed5, Hashrate: 187943.26142134372
+2024-05-23 11:26:33,998     -      INFO      -     Submit share: NONCE:1292271, Curtime: 1716438386, Hash: 0000d8284cb23c33b23e15b5374e4f8f99d0a466191d5bd8c23c89dba3bd39be, Hashrate: 233119.23627110393
+2024-05-23 11:26:34,263     -      INFO      -     Submit share: NONCE:1363819, Curtime: 1716438386, Hash: 0000cbd536da8943d9cd99133960b97a06c1b63a889c4c6d1bf17c885c17f043, Hashrate: 270629.42023106635
+2024-05-23 11:26:34,274     -      INFO      -     Submit share: NONCE:1367638, Curtime: 1716438386, Hash: 0000d807018609386e527191dc1c4068f7ff77f3e6d7f0efbfcaf9a80d6f21c0, Hashrate: 363529.8329663345
+2024-05-23 11:26:34,281     -      INFO      -     Submit share: NONCE:1370194, Curtime: 1716438386, Hash: 0000c2fe7a74f42e3d37044fac0cea97767b3f0ec4ea2e42e3ab4cfb5f4f7d8d, Hashrate: 347316.3740074542
+2024-05-23 11:26:34,469     -      INFO      -     Submit share: NONCE:1400441, Curtime: 1716438386, Hash: 0000ef81d4a51f01103619f2ead6740448107b11570cbebbe9159d8cca14155b, Hashrate: 161753.3894319164
+2024-05-23 11:26:34,518     -      INFO      -     Submit share: NONCE:1409879, Curtime: 1716438386, Hash: 0000bb83dc2db496e72e54bb2bdeecc9beedbf02a9f78cc40eb9288b0a2a7f6c, Hashrate: 192978.59600505096
+2024-05-23 11:26:34,937     -      INFO      -     Submit share: NONCE:1495447, Curtime: 1716438386, Hash: 0000bf48c05082da9c6f712a918340e62caf53ade603ff82e33f4ae93504b833, Hashrate: 204728.28718341884
+2024-05-23 11:26:34,994     -      INFO      -     Submit share: NONCE:1509388, Curtime: 1716438386, Hash: 0000a8de5040bd836a876e11782980d02d49dd814ec7082fc40a8f9ce14a390d, Hashrate: 243764.40028850525
+2024-05-23 11:26:35,128     -      INFO      -     Submit share: NONCE:1533940, Curtime: 1716438386, Hash: 0000f3852773a6af0952fba6cfa5e0f75ff2f49558af31bde7cf19e51bb976ab, Hashrate: 184210.41263389887
+2024-05-23 11:26:35,731     -      INFO      -     Submit share: NONCE:1602366, Curtime: 1716438386, Hash: 0000dfd7bdacd5ed00f8c4c5488e15870eda62ac66312d9a476ba50fa29068b3, Hashrate: 113508.7320904383
+2024-05-23 11:26:36,251     -      INFO      -     Submit share: NONCE:1678753, Curtime: 1716438386, Hash: 00000e66504bd280a2af6cab680417bfb3f6ffc55eebe53afcd532887b337e87, Hashrate: 147016.00788524546
+2024-05-23 11:26:36,308     -      INFO      -     Submit share: NONCE:1691593, Curtime: 1716438386, Hash: 00000f9b64f6f18a2d5314a4720e6f70cae3ff23e39cd6d0205d905192f9eb88, Hashrate: 234089.5791482462
+2024-05-23 11:26:36,618     -      INFO      -     Submit share: NONCE:1762989, Curtime: 1716438386, Hash: 0000576b709a23755485b911b70ad27e56d75a60a9a9d050c2bc9bbe21d32239, Hashrate: 230653.2987747626
+2024-05-23 11:26:37,149     -      INFO      -     Submit share: NONCE:1881656, Curtime: 1716438386, Hash: 00000c703b713eb74394bc5eb56e4ed20f46c3ab7ae3e2ccaa1af3f01200c8b6, Hashrate: 224200.2889497001
+2024-05-23 11:26:37,675     -      INFO      -     Submit share: NONCE:1988880, Curtime: 1716438386, Hash: 000047a1d7200190c740bb3706a87a185729ef50963f51d080dcbe1cb7f9fed4, Hashrate: 204421.95947977898
+2024-05-23 11:26:38,047     -      INFO      -     Submit share: NONCE:2075144, Curtime: 1716438386, Hash: 000021dac041a90a5db09b10ad751d4bb0719689e40c4a73a80a35f6d1cf144b, Hashrate: 232611.35970570403
+2024-05-23 11:26:38,287     -      INFO      -     Submit share: NONCE:2124891, Curtime: 1716438386, Hash: 0000668d9a7e4ad79f0501605ef3e44174b77b4911bb624274a17738dfda8caa, Hashrate: 208014.77766778026
+2024-05-23 11:26:40,216     -      INFO      -     Submit share: NONCE:2616572, Curtime: 1716438386, Hash: 000068621bdf47a93fec4dd4218ce3fccbd386af8a0be31034537a3e13166ddb, Hashrate: 255284.72862459422
+2024-05-23 11:29:32,917     -      INFO      -     Connected to 127.0.0.1:3002
+2024-05-23 11:29:32,969     -      INFO      -     Authorize success
+2024-05-23 11:29:39,196     -      INFO      -     Receive job from pool
+2024-05-23 11:29:39,196     -      INFO      -     Start mining
+2024-05-23 11:29:39,197     -      INFO      -     Start new block
+2024-05-23 11:29:39,701     -      INFO      -     Submit share: NONCE:99576, Curtime: 1716438569, Hash: 00003100f9f10ff2e599cd6640b353ed42db415777f4af620ff62a37c89e00e6, Hashrate: 197491.57129238732
+2024-05-23 11:29:39,812     -      INFO      -     Submit share: NONCE:131715, Curtime: 1716438569, Hash: 0000283f5607b65eebb9eb655cc138d4e962f69351e614f2f45f1cc7451b9d71, Hashrate: 317802.443350497
+2024-05-23 11:29:39,813     -      INFO      -     Submit share: NONCE:131948, Curtime: 1716438569, Hash: 00007a4b6d2605edfb5d5e2017d46940c10d95096bdcfe5b6c9655b665f10ea4, Hashrate: 257700.88135593222
+2024-05-23 11:29:40,101     -      INFO      -     Submit share: NONCE:222317, Curtime: 1716438569, Hash: 000024f63fe6cfb85877ad2cab0f7472c57efe5d1f968374bd70e96d64ead320, Hashrate: 352802.7982448792
+2024-05-23 11:29:40,171     -      INFO      -     Submit share: NONCE:228685, Curtime: 1716438569, Hash: 0000b1ce31e384d0493d6d346a8338ac9c2595b2187725e00120cadf3e30a6cb, Hashrate: 91871.24524563094
+2024-05-23 11:29:40,514     -      INFO      -     Submit share: NONCE:299763, Curtime: 1716438569, Hash: 0000f32a7c58ec9facfcdd143694b087a85b575600aaabf92b9597a32c5dde28, Hashrate: 207291.0637507266
+2024-05-23 11:29:41,277     -      INFO      -     Submit share: NONCE:450869, Curtime: 1716438569, Hash: 0000eb5cdc1c76f7f5685ac253a7b54dce64de8d148a156d0fbe6f21988dca0b, Hashrate: 198251.7474786086
+2024-05-23 11:29:41,532     -      INFO      -     Submit share: NONCE:511570, Curtime: 1716438569, Hash: 00006f3b8d004188aab2e2c1fae22396f6f59314cae79588b2a312eb07f99a8d, Hashrate: 238389.71211872937
+2024-05-23 11:29:41,617     -      INFO      -     Submit share: NONCE:535155, Curtime: 1716438569, Hash: 000081e01c3afd94b42bb903b7e23cf66d86534fc1300e1807a3263b8a20d467, Hashrate: 276874.6866106116
+2024-05-23 11:29:41,802     -      INFO      -     Submit share: NONCE:580826, Curtime: 1716438569, Hash: 00009d185a7ee938e0cfaeecb4fca1526cfd6400f2edfd5345c1dbbb47e157cf, Hashrate: 248528.8552074535
+2024-05-23 11:29:41,880     -      INFO      -     Submit share: NONCE:609190, Curtime: 1716438569, Hash: 0000f7ffb39bb5119769adeb07f3e336db014f5c18853e370793c8163b082925, Hashrate: 362167.7276870386
+2024-05-23 11:29:42,375     -      INFO      -     Submit share: NONCE:751412, Curtime: 1716438569, Hash: 0000a63f3460307d3fb6f81e2808f70cd1c25d0f9679827bec70ecf4838b133c, Hashrate: 287440.5123099348
+2024-05-23 11:29:42,377     -      INFO      -     Submit share: NONCE:752079, Curtime: 1716438569, Hash: 0000daa4b17cbfdca2415d76b7ffad2c5b7a0274df1c8f29b9ef17dfe329becb, Hashrate: 438663.07537688443
+2024-05-23 11:29:42,429     -      INFO      -     Submit share: NONCE:761353, Curtime: 1716438569, Hash: 0000fcca795ff749540ead0e8babc4e372c36659b7f8983f7491758ddd16ed8d, Hashrate: 180720.58635318172
+2024-05-23 11:29:42,940     -      INFO      -     Submit share: NONCE:880589, Curtime: 1716438569, Hash: 00009151665848411fcb7afa31a8fc7601d561fb55260531900714ca04e9bed9, Hashrate: 233298.53461333743
+2024-05-23 11:29:43,589     -      INFO      -     Submit share: NONCE:1026076, Curtime: 1716438569, Hash: 0000ca4d3b77a5fbf6bf1506cb868d262aed8daf033e26084b41038c092dd576, Hashrate: 224453.9894366806
+2024-05-23 11:29:43,878     -      INFO      -     Submit block network: NONCE:1049885, Curtime: 1716438569, Hash: 000004992f0a4eb6979cd4ad82321d8f2eff7d9e518bb2a6a4e80f95d10ac270, Hashrate: 135178.87889970353
+2024-05-23 11:29:43,904     -      INFO      -     Request new job from pool
+2024-05-23 11:29:44,031     -      INFO      -     Receive job from pool
+2024-05-23 11:29:44,031     -      INFO      -     Start mining
+2024-05-23 11:29:44,032     -      INFO      -     Start new block
+2024-05-23 11:29:44,106     -      INFO      -     Submit share: NONCE:17872, Curtime: 1716438583, Hash: 00002c0ecfa9ef4641e5df6ee2cc0ed73d29c8a4b8fda1547fc46bce8f09b17b, Hashrate: 243624.57250015438
+2024-05-23 11:29:44,385     -      INFO      -     Submit share: NONCE:72177, Curtime: 1716438583, Hash: 0000a0b81cbb2f091ebb81e686d7ee0038d130be88aae0ab1ce943bfc7ab2188, Hashrate: 195074.21622241978
+2024-05-23 11:29:44,472     -      INFO      -     Submit share: NONCE:89939, Curtime: 1716438583, Hash: 00005e082203472c16276cc54ec4833febca023618c9dc3af1d68a66e3130e99, Hashrate: 205598.25724954667
+2024-05-23 11:29:44,480     -      INFO      -     Submit share: NONCE:90891, Curtime: 1716438583, Hash: 0000423b0fc2c08fcdce7086240394ca8b602c65388ccf54b09b6044b1337e20, Hashrate: 122977.7433019886
+2024-05-23 11:29:45,053     -      INFO      -     Submit share: NONCE:180533, Curtime: 1716438583, Hash: 00006ebc3acf501e1a9f5d18b751533ef6add8e49e8133779086d9eb6f9ece88, Hashrate: 156514.09605939835
+2024-05-23 11:29:45,160     -      INFO      -     Submit share: NONCE:197863, Curtime: 1716438583, Hash: 0000b3c984b004195ea499bc2019bb148158c214a195c6947e743dca7dfd12e3, Hashrate: 161613.5182485647
+2024-05-23 11:29:45,549     -      INFO      -     Submit share: NONCE:273023, Curtime: 1716438583, Hash: 0000fd725396cc76d36679fbcdf41c8e6002ca957f3580a33e9e90ad91351a58, Hashrate: 193921.10172686158
+2024-05-23 11:29:45,778     -      INFO      -     Submit share: NONCE:324220, Curtime: 1716438583, Hash: 000014c92962ddfb3e99b49b7fbbdf71d520fcdda14a03862ec7a6e2535e369e, Hashrate: 223643.32687324507
+2024-05-23 11:29:46,198     -      INFO      -     Submit share: NONCE:388091, Curtime: 1716438583, Hash: 00008d7240e5d0e437f9556b75a9c1f5b74e6fc45d8726d274d87cec2977e7d5, Hashrate: 152547.67729547384
+2024-05-23 11:29:46,336     -      INFO      -     Submit share: NONCE:417060, Curtime: 1716438583, Hash: 000040aecccc00eecad68506640e21d232819168b8458c436b35527d54de823d, Hashrate: 211733.2736277486
+2024-05-23 11:29:46,804     -      INFO      -     Submit share: NONCE:539808, Curtime: 1716438583, Hash: 0000dfa2b8fa2b216d85446e11c7bd48a1df4d6feac1b00d9dd52314ff958fa0, Hashrate: 262646.30327171367
+2024-05-23 11:29:47,220     -      INFO      -     Submit share: NONCE:639338, Curtime: 1716438583, Hash: 0000917281c5b070eb86cc517a7e8ee1b8a4308edfb69fc1384de89aa70fbd85, Hashrate: 239649.95431290244
+2024-05-23 11:29:47,564     -      INFO      -     Submit share: NONCE:711221, Curtime: 1716438583, Hash: 0000216afdc813cd0793fd6b7488869f5d79cf73d532b7b57effb87a940ba1bd, Hashrate: 209050.37548432546
+2024-05-23 11:29:47,742     -      INFO      -     Submit share: NONCE:756920, Curtime: 1716438583, Hash: 0000b64edf0759552de567cbe39fea9377c7667ed10dc8e986303042b011d2fb, Hashrate: 256494.00914791628
+2024-05-23 11:29:47,828     -      INFO      -     Submit share: NONCE:777273, Curtime: 1716438583, Hash: 00000a1d1f77efbe8eb55668c087dc95b812a59a39addf65092ecd184fc87638, Hashrate: 237544.90711918366
+2024-05-23 11:29:48,234     -      INFO      -     Submit share: NONCE:880752, Curtime: 1716438583, Hash: 0000dd28926e7b945cf22b841af75d27c283280e3f1f5e8f4ae628c90c391057, Hashrate: 255526.52407942186
+2024-05-23 11:29:48,789     -      INFO      -     Submit share: NONCE:1009860, Curtime: 1716438583, Hash: 000099f7c607aa4b340fe960f7de4041a1fb88e251418e44aeb296a70f925bc2, Hashrate: 232827.53516529253
+2024-05-23 11:29:49,361     -      INFO      -     Submit share: NONCE:1138365, Curtime: 1716438583, Hash: 0000fd5fb8ebf747a1982831dc77a6d0303a8a0db8e90f0a2e5bc06a7f6bd532, Hashrate: 224561.01720085778
+2024-05-23 11:29:50,719     -      INFO      -     Submit share: NONCE:1299398, Curtime: 1716438583, Hash: 00004e7dc775668bf1e636d571eacb431bb2e673a44893adac0b9ff79d56275d, Hashrate: 118600.47996117224
+2024-05-23 11:29:50,949     -      INFO      -     Submit share: NONCE:1357842, Curtime: 1716438583, Hash: 00003e49f92bfb9224142fea20cf10ccebe5816602e2955f881ede1473e61759, Hashrate: 254991.01616841028
+2024-05-23 11:29:50,960     -      INFO      -     Submit share: NONCE:1359373, Curtime: 1716438583, Hash: 000051ce6065779b6be685ab8d537ec04e22c7b9cd21a924c46ad25ac698948b, Hashrate: 147026.94618186817
+2024-05-23 11:29:51,303     -      INFO      -     Submit share: NONCE:1447822, Curtime: 1716438583, Hash: 0000cf92d4abf7bb0a2389758283b82683a78e85af7552701b425a5941d7ea14, Hashrate: 257972.09297564626
+2024-05-23 11:29:51,471     -      INFO      -     Submit share: NONCE:1486283, Curtime: 1716438583, Hash: 00002746a9c891e99053e495bf082d29f045fdd6f02a769334ade9080026d2eb, Hashrate: 229904.14327309938
+2024-05-23 11:29:52,156     -      INFO      -     Submit share: NONCE:1655011, Curtime: 1716438583, Hash: 0000d37e4ca5bc184e1cb6c2caa06cf89fa9170b873eb95386722b5801ed625f, Hashrate: 246233.93382126014
+2024-05-23 11:29:52,196     -      INFO      -     Submit share: NONCE:1661613, Curtime: 1716438583, Hash: 00004f3490ba28e065d00e4f29154641d25edfe7492be0d2b35df50b1bb8908d, Hashrate: 166786.75122891567
+2024-05-23 11:29:52,395     -      INFO      -     Submit share: NONCE:1699191, Curtime: 1716438583, Hash: 00008c8063f6eca6460423131b471d8eaec2c0d659b115e974db727f5a82b69c, Hashrate: 189288.94924210853
+2024-05-23 11:29:52,668     -      INFO      -     Submit share: NONCE:1741654, Curtime: 1716438583, Hash: 00004932fd90131e7b7f62793f1bfdd8c9e45f908f3dc89ca1e6f8d0e5f2f12b, Hashrate: 158826.80908700143
+2024-05-23 11:29:52,737     -      INFO      -     Submit share: NONCE:1745801, Curtime: 1716438583, Hash: 00002e97279fba9365cf074c7ec25af4318d14d307fea306848cd76a63679150, Hashrate: 66848.30716358814
+2024-05-23 11:29:53,168     -      INFO      -     Submit share: NONCE:1818871, Curtime: 1716438583, Hash: 0000c5659a0cac6502be66a0c78ed5f867bd1cf0f4e015970d21ae5aee221f37, Hashrate: 172388.08095344165
+2024-05-23 11:29:53,604     -      INFO      -     Submit share: NONCE:1915426, Curtime: 1716438583, Hash: 0000222a1ac826035f306501773d5fc58c9085c640ff084a12c2f26b0eac7d1b, Hashrate: 222110.6703222873
+2024-05-23 11:29:53,694     -      INFO      -     Submit share: NONCE:1933911, Curtime: 1716438583, Hash: 00006a6cd6eb14d17e1cf2a2608aa41103199f72dd267f5beab8fc061226ff88, Hashrate: 207952.82121599838
+2024-05-23 11:29:53,890     -      INFO      -     Submit share: NONCE:1974987, Curtime: 1716438583, Hash: 0000a09e5b9b45aa3d6c8711be43ed6abdffeee9883564149b47682e4d1ab90c, Hashrate: 210067.82755227582
+2024-05-23 11:29:54,008     -      INFO      -     Submit share: NONCE:1991786, Curtime: 1716438583, Hash: 00004e371f3ec59d27574f95f9d04b9a0862dfb37f798fe89920899369729c88, Hashrate: 144351.7391274061
+2024-05-23 11:29:54,012     -      INFO      -     Submit share: NONCE:1991930, Curtime: 1716438583, Hash: 000025b4744b95274516e3d66c03e27cae60545e1a4c37b0a728b5b3078aac4a, Hashrate: 47447.62851040266
+2024-05-23 11:29:54,027     -      INFO      -     Submit share: NONCE:1994551, Curtime: 1716438583, Hash: 00006a21f6ada721a1d20147d82e278418efac52b941381771c8915b88f6fdd0, Hashrate: 180201.96910563772
+2024-05-23 11:29:54,395     -      INFO      -     Submit share: NONCE:2099945, Curtime: 1716438583, Hash: 000040bc4295082b3fd9899b23c73190b4877d37e9c5e9de5017eccf48b361d5, Hashrate: 287747.0675087193
+2024-05-23 11:29:54,437     -      INFO      -     Submit share: NONCE:2106912, Curtime: 1716438583, Hash: 0000bcbdb879f77f2d09c2611cc078ccdb741e83c9e6cd19a665642acbf81701, Hashrate: 166101.13394958558
+2024-05-23 11:29:54,891     -      INFO      -     Submit share: NONCE:2221794, Curtime: 1716438583, Hash: 00002876e0037d0647afb1323f12f645f4eb99726f048fcaec1a16ff1cb8b554, Hashrate: 253382.8961381452
+2024-05-23 11:29:55,181     -      INFO      -     Submit share: NONCE:2262326, Curtime: 1716438583, Hash: 0000d169edeaed9f6d671fa7cddc8d794b5b202df49b778fe8f10a218d55aaf2, Hashrate: 141221.61781127236
+2024-05-23 11:29:55,882     -      INFO      -     Submit share: NONCE:2406307, Curtime: 1716438583, Hash: 00005a7f40555b45b9a24b84fb648d125924d2f58ce97f056ea170f3121d302c, Hashrate: 205702.79539023677
+2024-05-23 11:29:56,066     -      INFO      -     Submit share: NONCE:2436831, Curtime: 1716438583, Hash: 00001ebe07a7b1872308f07b8329c9bcc524d309b6afcf205b532c86499dabf2, Hashrate: 166972.17275941628
+2024-05-23 11:29:56,310     -      INFO      -     Submit block network: NONCE:2475217, Curtime: 1716438583, Hash: 000008696ba6bf4375a55e704b17be0ece9db4b2a1d8733e1fb843cbfb2f3f5f, Hashrate: 269348.2860072976
+2024-05-23 11:29:56,320     -      INFO      -     Request new job from pool
+2024-05-23 11:29:56,419     -      INFO      -     Receive job from pool
+2024-05-23 11:29:56,420     -      INFO      -     Start mining
+2024-05-23 11:29:56,420     -      INFO      -     Start new block
+2024-05-23 11:29:56,630     -      INFO      -     Submit share: NONCE:39827, Curtime: 1716438596, Hash: 0000e350f94952bb50f1f24c545103c2df24b7d2f41cecc955395ad5d52b67d4, Hashrate: 190171.60243579512
+2024-05-23 11:29:57,046     -      INFO      -     Submit share: NONCE:119676, Curtime: 1716438596, Hash: 00003ae7f9463511adc691c4408a21574ebd7158798850ffd7cac9969d2c4eeb, Hashrate: 192635.4723885164
+2024-05-23 11:29:57,507     -      INFO      -     Submit share: NONCE:231279, Curtime: 1716438596, Hash: 0000db40409458b263c2377dbbfd4fd4dd18b28409fb627674ba9bee9a27dcf9, Hashrate: 242131.86693661436
+2024-05-23 11:29:57,879     -      INFO      -     Submit share: NONCE:306616, Curtime: 1716438596, Hash: 00008d7b3f10499536c907035d3a3d7a35a4e9e44d4c1da0f549b9439a85060f, Hashrate: 203177.38979670178
+2024-05-23 11:29:58,307     -      INFO      -     Submit share: NONCE:398457, Curtime: 1716438596, Hash: 000040726c4424ee63b746566c951812358c63fc2d5a77361a08ffd23a24a4c0, Hashrate: 214480.40628265953
+2024-05-23 11:29:58,367     -      INFO      -     Submit share: NONCE:407885, Curtime: 1716438596, Hash: 0000434c8cbb4839b6447482453e29a3eb26ba0d9f2b6e92c5eed5998f353bc9, Hashrate: 158201.2131571261
+2024-05-23 11:29:58,443     -      INFO      -     Submit share: NONCE:421679, Curtime: 1716438596, Hash: 0000d0f38a170309a931b4559265828f7e062eb33d59433ca9944db29e0b341e, Hashrate: 183727.82901368462
+2024-05-23 11:29:58,471     -      INFO      -     Submit share: NONCE:425561, Curtime: 1716438596, Hash: 0000b06066ab0470359de0e14f47ba3a8638b2da713d6d0dcd814bd895d180bd, Hashrate: 141350.75089657088
+2024-05-23 11:29:58,507     -      INFO      -     Submit share: NONCE:428852, Curtime: 1716438596, Hash: 00005319cee5c9f255688621bc842179434fedda90ed40fa6e9d10b06d589618, Hashrate: 93335.36355396832
+2024-05-23 11:29:59,623     -      INFO      -     Submit share: NONCE:645458, Curtime: 1716438596, Hash: 00008e58126a9c24569a2f84d6b8cbf5c111dcfdc1d804663719619016be813b, Hashrate: 194164.14079043092
+2024-05-23 11:29:59,966     -      INFO      -     Submit share: NONCE:738522, Curtime: 1716438596, Hash: 0000b92559843b534a903967d0c234146a8014a0e68dc6155180a49491b2daa4, Hashrate: 271716.81101862865
+2024-05-23 11:30:00,389     -      INFO      -     Submit share: NONCE:802485, Curtime: 1716438596, Hash: 0000a2227eacd07fe60cd6f763e148f7a9605f9c7bac3fc465ea70c360c723a9, Hashrate: 151366.40959803923
+2024-05-23 11:30:01,164     -      INFO      -     Submit block network: NONCE:887827, Curtime: 1716438596, Hash: 0000095a706fb17f8b56218506b00ebb5f01382b3203bdf29b0fe471ae76b991, Hashrate: 126499.07997430056
+2024-05-23 11:30:01,256     -      INFO      -     Request new job from pool
+2024-05-23 11:30:01,324     -      INFO      -     Receive job from pool
+2024-05-23 11:30:01,324     -      INFO      -     Start mining
+2024-05-23 11:30:01,325     -      INFO      -     Start new block
+2024-05-23 11:30:01,918     -      INFO      -     Submit block network: NONCE:123232, Curtime: 1716438601, Hash: 00000017af4590272e4fe1bb924ae55c260dca57c4d9336c104171e00698d63c, Hashrate: 251897.6032282039
+2024-05-23 11:30:01,954     -      INFO      -     Request new job from pool
+2024-05-23 11:30:02,051     -      INFO      -     Receive job from pool
+2024-05-23 11:30:02,051     -      INFO      -     Start mining
+2024-05-23 11:30:02,051     -      INFO      -     Start new block
+2024-05-23 11:30:09,527     -      INFO      -     Submit block network: NONCE:1646155, Curtime: 1716438601, Hash: 000000d70d8a0895112c7c33d8141464831c7d1bb001bd69eb777fe9c82dcf99, Hashrate: 224291.77773809555
+2024-05-23 11:30:09,552     -      INFO      -     Request new job from pool
+2024-05-23 11:30:09,655     -      INFO      -     Receive job from pool
+2024-05-23 11:30:09,655     -      INFO      -     Start mining
+2024-05-23 11:30:09,656     -      INFO      -     Start new block
+2024-05-23 11:30:13,777     -      INFO      -     Submit block network: NONCE:758477, Curtime: 1716438609, Hash: 000004fd25c11160e611c39eade2068ac695f7f602c988d325d43083069245f6, Hashrate: 188671.32850798397
+2024-05-23 11:30:13,797     -      INFO      -     Request new job from pool
+2024-05-23 11:30:13,970     -      INFO      -     Receive job from pool
+2024-05-23 11:30:13,971     -      INFO      -     Start mining
+2024-05-23 11:30:13,971     -      INFO      -     Start new block
+2024-05-23 11:30:16,999     -      INFO      -     Submit block network: NONCE:632571, Curtime: 1716438613, Hash: 00000639d7ade8aed96b02f89c7c280b248a9dc17c932c92c1a57d0334e88275, Hashrate: 216269.3577071819
+2024-05-23 11:30:17,018     -      INFO      -     Request new job from pool
+2024-05-23 11:30:17,115     -      INFO      -     Receive job from pool
+2024-05-23 11:30:17,115     -      INFO      -     Start mining
+2024-05-23 11:30:17,116     -      INFO      -     Start new block
+2024-05-23 11:30:44,314     -      INFO      -     Connected to 127.0.0.1:3002
+2024-05-23 11:30:44,343     -      INFO      -     Authorize success
+2024-05-23 11:30:44,976     -      INFO      -     Receive job from pool
+2024-05-23 11:30:44,978     -      INFO      -     Start mining
+2024-05-23 11:30:44,981     -      INFO      -     Start new block
+2024-05-23 11:30:59,408     -      INFO      -     Submit block network: NONCE:3158754, Curtime: 1716438641, Hash: 000006e0f79cd4a96a1a165b46b99bdf6a66d216c04850a7ffb29208fac2a23a, Hashrate: 220619.8628965678
+2024-05-23 11:30:59,598     -      INFO      -     Request new job from pool
+2024-05-23 11:30:59,653     -      INFO      -     Receive job from pool
+2024-05-23 11:30:59,653     -      INFO      -     Start mining
+2024-05-23 11:30:59,653     -      INFO      -     Start new block
+2024-05-23 11:31:03,421     -      INFO      -     Submit block network: NONCE:739794, Curtime: 1716438659, Hash: 00000663817151cf99cf63a97204c90dc077dc3c5e5baab720736880ad09ce18, Hashrate: 202039.29672489405
+2024-05-23 11:31:03,437     -      INFO      -     Request new job from pool
+2024-05-23 11:31:03,562     -      INFO      -     Receive job from pool
+2024-05-23 11:31:03,563     -      INFO      -     Start mining
+2024-05-23 11:31:03,563     -      INFO      -     Start new block
+2024-05-23 11:31:22,761     -      INFO      -     Submit block network: NONCE:4135934, Curtime: 1716438663, Hash: 000004a385be82f0d6405428457628995d4378cffc0395b282dd2e5f3c512390, Hashrate: 216903.26388897866
+2024-05-23 11:31:22,795     -      INFO      -     Request new job from pool
+2024-05-23 11:31:22,898     -      INFO      -     Receive job from pool
+2024-05-23 11:31:22,899     -      INFO      -     Start mining
+2024-05-23 11:31:22,899     -      INFO      -     Start new block
+2024-05-23 11:31:34,198     -      INFO      -     Submit block network: NONCE:2302328, Curtime: 1716438682, Hash: 0000073e84da2edb7db52095712d8158213250dffe871c96ea1b5606741a159e, Hashrate: 205619.91869781524
+2024-05-23 11:31:34,214     -      INFO      -     Request new job from pool
+2024-05-23 11:31:34,303     -      INFO      -     Receive job from pool
+2024-05-23 11:31:34,303     -      INFO      -     Start mining
+2024-05-23 11:31:34,304     -      INFO      -     Start new block
+2024-05-23 11:31:35,806     -      INFO      -     Submit block network: NONCE:311158, Curtime: 1716438694, Hash: 000006e1fc26c89cb07ba6b1f0ce9c9c3945a6ee569677ab873f83cd2b48482a, Hashrate: 222213.8071846832
+2024-05-23 11:31:35,833     -      INFO      -     Request new job from pool
+2024-05-23 11:31:36,035     -      INFO      -     Receive job from pool
+2024-05-23 11:31:36,035     -      INFO      -     Start mining
+2024-05-23 11:31:36,041     -      INFO      -     Start new block
+2024-05-23 11:31:42,662     -      INFO      -     Submit block network: NONCE:1414453, Curtime: 1716438695, Hash: 000007c756613d976a00386ac6c8fae5d839231b51f4c53626b0ab03cf91224f, Hashrate: 217251.76755873865
+2024-05-23 11:31:42,811     -      INFO      -     Request new job from pool
+2024-05-23 11:31:42,979     -      INFO      -     Receive job from pool
+2024-05-23 11:31:42,979     -      INFO      -     Start mining
+2024-05-23 11:31:42,980     -      INFO      -     Start new block
+2024-05-23 11:31:47,803     -      INFO      -     Submit block network: NONCE:1201298, Curtime: 1716438702, Hash: 000007e9b27231439fd7dc206187469c8675425f1c1b012ce547476870a1363f, Hashrate: 254365.63242994974
+2024-05-23 11:31:47,899     -      INFO      -     Request new job from pool
+2024-05-23 11:31:48,114     -      INFO      -     Receive job from pool
+2024-05-23 11:31:48,115     -      INFO      -     Start mining
+2024-05-23 11:31:48,116     -      INFO      -     Start new block
+2024-05-23 11:31:52,015     -      INFO      -     Submit block network: NONCE:857999, Curtime: 1716438707, Hash: 00000653a476aa1574c87a27915bbaab46bcb0f8f16aaeaf8f7d0fe9ba4198ca, Hashrate: 227621.51287240937
+2024-05-23 11:31:52,043     -      INFO      -     Request new job from pool
+2024-05-23 11:31:52,163     -      INFO      -     Receive job from pool
+2024-05-23 11:31:52,164     -      INFO      -     Start mining
+2024-05-23 11:31:52,164     -      INFO      -     Start new block
+2024-05-23 11:31:54,868     -      INFO      -     Submit block network: NONCE:601882, Curtime: 1716438712, Hash: 000005d8689c98bcc1676a6797cf96906e4c5932d23ec11df536e7cd42edf690, Hashrate: 231350.56491751946
+2024-05-23 11:31:54,881     -      INFO      -     Request new job from pool
+2024-05-23 11:31:55,015     -      INFO      -     Receive job from pool
+2024-05-23 11:31:55,015     -      INFO      -     Start mining
+2024-05-23 11:31:55,016     -      INFO      -     Start new block
+2024-05-23 11:32:03,295     -      INFO      -     Submit block network: NONCE:1826624, Curtime: 1716438714, Hash: 0000098c01b308f68933cdc51955d724dd00c69f52c768b123fea386710ccac8, Hashrate: 224237.32208794958
+2024-05-23 11:32:03,365     -      INFO      -     Request new job from pool
+2024-05-23 11:32:03,514     -      INFO      -     Receive job from pool
+2024-05-23 11:32:03,515     -      INFO      -     Start mining
+2024-05-23 11:32:03,515     -      INFO      -     Start new block
+2024-05-23 11:32:05,511     -      INFO      -     Submit block network: NONCE:476730, Curtime: 1716438723, Hash: 0000091fccec62ab5daf55ed4cc4d9e38ac9e8d756ca6f2d6218062f5972c4d3, Hashrate: 252336.24976606327
+2024-05-23 11:32:05,928     -      INFO      -     Request new job from pool
+2024-05-23 11:32:05,997     -      INFO      -     Receive job from pool
+2024-05-23 11:32:05,997     -      INFO      -     Start mining
+2024-05-23 11:32:05,998     -      INFO      -     Start new block
+2024-05-23 11:32:07,643     -      INFO      -     Submit block network: NONCE:275949, Curtime: 1716438725, Hash: 00000194c154599d465eba3fb7e80679bf6e81e46bcfc7c8e72028f576d2adf4, Hashrate: 178721.8277175766
+2024-05-23 11:32:07,665     -      INFO      -     Request new job from pool
+2024-05-23 11:32:07,810     -      INFO      -     Receive job from pool
+2024-05-23 11:32:07,811     -      INFO      -     Start mining
+2024-05-23 11:32:07,811     -      INFO      -     Start new block
+2024-05-23 11:32:11,507     -      INFO      -     Connected to 127.0.0.1:3002
+2024-05-23 11:32:11,511     -      INFO      -     Authorize success
+2024-05-23 11:32:12,015     -      INFO      -     Receive job from pool
+2024-05-23 11:32:12,017     -      INFO      -     Start new block
+2024-05-23 11:32:13,630     -      INFO      -     Submit block network: NONCE:318035, Curtime: 1716438727, Hash: 000007d57014ca4667c091a122c56379c07ee85211fd88870b38d20b2c51aea9, Hashrate: 210463.28817935873
+2024-05-23 11:32:13,653     -      INFO      -     Request new job from pool
+2024-05-23 11:32:13,758     -      INFO      -     Receive job from pool
+2024-05-23 11:32:13,759     -      INFO      -     Start new block
+2024-05-23 11:32:23,163     -      INFO      -     Submit block network: NONCE:1829344, Curtime: 1716438733, Hash: 000002b364170aa64a5b229a26ce5b931ee9e1d7c85e377bdbee0730c05f1d5d, Hashrate: 197016.7004692355
+2024-05-23 11:32:23,175     -      INFO      -     Request new job from pool
+2024-05-23 11:32:23,299     -      INFO      -     Receive job from pool
+2024-05-23 11:32:23,300     -      INFO      -     Start new block
+2024-05-23 11:32:27,547     -      INFO      -     Submit block network: NONCE:859841, Curtime: 1716438743, Hash: 000003f06d42ab1aa07ce63af712cc4448ef00270b6495503c8977b9f046a08d, Hashrate: 207885.8889906673
+2024-05-23 11:32:27,561     -      INFO      -     Request new job from pool
+2024-05-23 11:32:27,671     -      INFO      -     Receive job from pool
+2024-05-23 11:32:27,672     -      INFO      -     Start new block
+2024-05-23 11:32:32,786     -      INFO      -     Submit block network: NONCE:1067186, Curtime: 1716438747, Hash: 000002bcd2b342f6929ab9b856e3f1120fafc8320cbab5df8c5add505b28ef54, Hashrate: 213129.58189152362
+2024-05-23 11:32:32,943     -      INFO      -     Request new job from pool
+2024-05-23 11:32:32,961     -      INFO      -     Receive job from pool
+2024-05-23 11:32:32,961     -      INFO      -     Start new block
+2024-05-23 11:32:33,718     -      INFO      -     Submit block network: NONCE:132472, Curtime: 1716438752, Hash: 000000c984d3e3818c56406e329d05197d9ff33a7d40c9c27fe57af8b625fe86, Hashrate: 201951.092734014
+2024-05-23 11:32:33,729     -      INFO      -     Request new job from pool
+2024-05-23 11:32:33,850     -      INFO      -     Receive job from pool
+2024-05-23 11:32:33,851     -      INFO      -     Start new block
+2024-05-23 11:32:36,406     -      INFO      -     Submit block network: NONCE:491504, Curtime: 1716438753, Hash: 000003e74d2cd0ed4c91fe7a4317ad6c91c57846368616bde4bc79fb549bf0e3, Hashrate: 200364.8420626006
+2024-05-23 11:32:36,483     -      INFO      -     Request new job from pool
+2024-05-23 11:32:36,578     -      INFO      -     Receive job from pool
+2024-05-23 11:32:36,579     -      INFO      -     Start new block
+2024-05-23 11:32:43,041     -      INFO      -     Submit block network: NONCE:1295479, Curtime: 1716438756, Hash: 0000091a7f9068673f27ca837c70e58b14170a4bc5d617cb4a13a168bcdb54c0, Hashrate: 203783.67750497314
+2024-05-23 11:32:43,060     -      INFO      -     Request new job from pool
+2024-05-23 11:32:43,187     -      INFO      -     Receive job from pool
+2024-05-23 11:32:43,188     -      INFO      -     Start new block
+2024-05-23 11:32:48,662     -      INFO      -     Submit block network: NONCE:1102162, Curtime: 1716438763, Hash: 000009af44a0b2a329bd679591324c2b7bf875911482ffac81e5ea9b4d5f3491, Hashrate: 205170.42167576318
+2024-05-23 11:32:48,684     -      INFO      -     Request new job from pool
+2024-05-23 11:32:48,784     -      INFO      -     Receive job from pool
+2024-05-23 11:32:48,785     -      INFO      -     Start new block
+2024-05-23 11:33:04,293     -      INFO      -     Submit block network: NONCE:2694203, Curtime: 1716438768, Hash: 0000087583462643b12eaab052c587661cb6010f2926cb93c3f0c649d29eaf94, Hashrate: 174888.19715760218
+2024-05-23 11:33:04,417     -      INFO      -     Request new job from pool
+2024-05-23 11:33:04,448     -      INFO      -     Receive job from pool
+2024-05-23 11:33:04,449     -      INFO      -     Start new block
+2024-05-23 11:33:11,951     -      INFO      -     Submit block network: NONCE:1275200, Curtime: 1716438784, Hash: 0000041d237987e6e6769917917cc9ee746f6eb3a79e13a7a8b7931cf75f95a4, Hashrate: 173092.52917628098
+2024-05-23 11:33:11,972     -      INFO      -     Request new job from pool
+2024-05-23 11:33:12,063     -      INFO      -     Receive job from pool
+2024-05-23 11:33:12,064     -      INFO      -     Start new block
+2024-05-23 11:33:26,680     -      INFO      -     Submit block network: NONCE:2206194, Curtime: 1716438791, Hash: 0000005312696698509f259b6bf2a6cd1a5d6bd784953cedd29e0da805eb0a8d, Hashrate: 152122.27531308413
+2024-05-23 11:33:26,733     -      INFO      -     Request new job from pool
+2024-05-23 11:33:26,860     -      INFO      -     Receive job from pool
+2024-05-23 11:33:26,861     -      INFO      -     Start new block
+2024-05-23 11:33:32,644     -      INFO      -     Submit block network: NONCE:1259753, Curtime: 1716438806, Hash: 0000060ba8c36d18ef3f8d2de7bf4111e82ea6b9e7898b91c6e6b34350cd0ec4, Hashrate: 221879.79345333326
+2024-05-23 11:33:32,693     -      INFO      -     Request new job from pool
+2024-05-23 11:33:32,863     -      INFO      -     Receive job from pool
+2024-05-23 11:33:32,864     -      INFO      -     Start new block
+2024-05-23 11:33:41,384     -      INFO      -     Submit block network: NONCE:1570975, Curtime: 1716438812, Hash: 000007698a0de41d9cb942657c9fe543fff1841c795b14a3882964b1e8be5b5e, Hashrate: 186595.83922349766
+2024-05-23 11:33:41,407     -      INFO      -     Request new job from pool
+2024-05-23 11:33:41,519     -      INFO      -     Receive job from pool
+2024-05-23 11:33:41,519     -      INFO      -     Start new block
+2024-05-23 11:33:44,336     -      INFO      -     Submit block network: NONCE:539440, Curtime: 1716438821, Hash: 000001e5352b9a9d48319b045db9a95c9c41f256fead81b1babbc0e903057dbb, Hashrate: 198780.15425353398
+2024-05-23 11:33:44,493     -      INFO      -     Request new job from pool
+2024-05-23 11:33:44,513     -      INFO      -     Receive job from pool
+2024-05-23 11:33:44,514     -      INFO      -     Start new block
+2024-05-23 11:38:33,158     -      INFO      -     Connected to 127.0.0.1:3002
+2024-05-23 11:38:33,208     -      INFO      -     Authorize success
+2024-05-23 11:38:33,634     -      INFO      -     Receive job from pool
+2024-05-23 11:38:33,643     -      INFO      -     Start new block
+2024-05-23 11:38:36,859     -      INFO      -     Submit block network: NONCE:693758, Curtime: 1716439110, Hash: 00000672673d8c7efd95c9d0ebfc8d0ba239ea513bb0261d1a1aabd9a4536c10, Hashrate: 222772.0781740883
+2024-05-23 11:38:36,877     -      INFO      -     Request new job from pool
+2024-05-23 11:38:37,055     -      INFO      -     Receive job from pool
+2024-05-23 11:38:37,057     -      INFO      -     Start new block
+2024-05-23 11:38:39,151     -      INFO      -     Submit block network: NONCE:523355, Curtime: 1716439116, Hash: 000003a0abcdcb764a1aa4e6c0dc0d2690e45619bcbc5a13210d4c423d618ac7, Hashrate: 263557.42555596126
+2024-05-23 11:38:39,253     -      INFO      -     Request new job from pool
+2024-05-23 11:38:39,571     -      INFO      -     Receive job from pool
+2024-05-23 11:38:39,572     -      INFO      -     Start new block
+2024-05-23 11:38:45,937     -      INFO      -     Submit block network: NONCE:1266379, Curtime: 1716439119, Hash: 0000076eb83f73d76244636a3d23997986e6bab7be1a7958d0fb3e44ee738dc0, Hashrate: 202156.37531101803
+2024-05-23 11:38:45,982     -      INFO      -     Request new job from pool
+2024-05-23 11:38:46,076     -      INFO      -     Receive job from pool
+2024-05-23 11:38:46,077     -      INFO      -     Start new block
+2024-05-23 11:38:54,371     -      INFO      -     Submit block network: NONCE:1768880, Curtime: 1716439125, Hash: 000003618b3242180f83f3a44c1408c06644ef8efe6ae4bf0455ab7acd63e85f, Hashrate: 216212.00478409123
+2024-05-23 11:38:54,385     -      INFO      -     Request new job from pool
+2024-05-23 11:38:54,489     -      INFO      -     Receive job from pool
+2024-05-23 11:38:54,489     -      INFO      -     Start new block
+2024-05-23 11:39:08,228     -      INFO      -     Submit block network: NONCE:2977439, Curtime: 1716439134, Hash: 000009a63bd5601304ac48d6485bb581de9a5a816b4646182b933b1634c616d7, Hashrate: 218309.09240613517
+2024-05-23 11:39:08,343     -      INFO      -     Request new job from pool
+2024-05-23 11:39:08,356     -      INFO      -     Receive job from pool
+2024-05-23 11:39:08,360     -      INFO      -     Start new block
+2024-05-23 11:39:16,676     -      INFO      -     Submit block network: NONCE:1823806, Curtime: 1716439148, Hash: 00000012aa0cd95e2f66e62120d5a7782bd9087bf11e4b7bb6ba7feb65d2ac41, Hashrate: 222017.7268593383
+2024-05-23 11:39:16,714     -      INFO      -     Request new job from pool
+2024-05-23 11:39:16,834     -      INFO      -     Receive job from pool
+2024-05-23 11:39:16,835     -      INFO      -     Start new block
+2024-05-23 11:39:20,416     -      INFO      -     Submit block network: NONCE:823568, Curtime: 1716439156, Hash: 000000c9b22d24f9c1dd1fadc2ad853e288e958ca5fa8b029ec889c47ba99204, Hashrate: 243357.71164852055
+2024-05-23 11:39:20,685     -      INFO      -     Request new job from pool
+2024-05-23 11:39:21,036     -      INFO      -     Receive job from pool
+2024-05-23 11:39:21,037     -      INFO      -     Start new block
+2024-05-23 11:39:23,615     -      INFO      -     Submit block network: NONCE:567905, Curtime: 1716439160, Hash: 0000098f009c72ccc4f963c64e309183670ed955b3ef39b1e7a0498da53f9a9a, Hashrate: 229464.97421998624
+2024-05-23 11:39:23,633     -      INFO      -     Request new job from pool
+2024-05-23 11:39:23,727     -      INFO      -     Receive job from pool
+2024-05-23 11:39:23,728     -      INFO      -     Start new block
+2024-05-23 11:39:24,398     -      INFO      -     Submit block network: NONCE:136573, Curtime: 1716439163, Hash: 0000043018715eea2d05b719533c608a67afaad4837ff09a0c898b6329bfed18, Hashrate: 240288.75162316824
+2024-05-23 11:39:24,419     -      INFO      -     Request new job from pool
+2024-05-23 11:39:24,614     -      INFO      -     Receive job from pool
+2024-05-23 11:39:24,615     -      INFO      -     Start new block
+2024-05-23 11:39:25,234     -      INFO      -     Submit block network: NONCE:118115, Curtime: 1716439164, Hash: 000003ac25671e4569dd3e033696afd3b9430a0fd8950ce4dbbd23c7c6ab3269, Hashrate: 228125.02363858817
+2024-05-23 11:39:25,347     -      INFO      -     Request new job from pool
+2024-05-23 11:39:25,439     -      INFO      -     Receive job from pool
+2024-05-23 11:39:25,440     -      INFO      -     Start new block
+2024-05-24 12:47:45,958     -      INFO      -     Connected to 127.0.0.1:3002
+2024-05-24 12:47:46,008     -      INFO      -     Authorize success
+2024-05-24 12:47:49,927     -      INFO      -     Receive job from pool
+2024-05-24 12:47:49,928     -      INFO      -     Start new block
+2024-05-24 12:47:51,467     -      INFO      -     Submit block network: NONCE:133757, Curtime: 1716529655, Hash: 000005a1ca8d442d31de5cbeee567b7e57fb805c9da0faa65f66beaf174d01b9, Hashrate: 219336.38940102706
+2024-05-24 12:47:51,671     -      INFO      -     Request new job from pool
+2024-05-24 12:47:51,924     -      INFO      -     Receive job from pool
+2024-05-24 12:47:51,925     -      INFO      -     Start new block
+2024-05-24 12:48:01,168     -      INFO      -     Submit block network: NONCE:1930795, Curtime: 1716529671, Hash: 0000047dc5d303b45607e251023e030e32e4c4c0a9c5644621ca154b469cadbb, Hashrate: 211332.24391462893
+2024-05-24 12:48:01,183     -      INFO      -     Request new job from pool
+2024-05-24 12:48:01,304     -      INFO      -     Receive job from pool
+2024-05-24 12:48:01,306     -      INFO      -     Start new block
+2024-05-24 12:48:01,571     -      INFO      -     Submit block network: NONCE:35168, Curtime: 1716529681, Hash: 000005b4ba5e42dcbea2341cade3d39958e2bf3c2884d4c39125e4635d215533, Hashrate: 220845.05477809237
+2024-05-24 12:48:01,603     -      INFO      -     Request new job from pool
+2024-05-24 12:48:01,755     -      INFO      -     Receive job from pool
+2024-05-24 12:48:01,757     -      INFO      -     Start new block
+2024-05-24 12:48:09,858     -      INFO      -     Submit block network: NONCE:1759472, Curtime: 1716529681, Hash: 0000009405c86649dcdcea01485812d50f1a335a63bb3226db8e14035d69e38e, Hashrate: 219995.3020680647
+2024-05-24 12:48:09,971     -      INFO      -     Request new job from pool
+2024-05-24 12:48:10,008     -      INFO      -     Receive job from pool
+2024-05-24 12:48:10,009     -      INFO      -     Start new block
+2024-05-27 12:01:18,940     -      INFO      -     Connected to 127.0.0.1:3002
+2024-05-27 12:01:18,968     -      INFO      -     Authorize success
+2024-05-27 12:04:09,455     -      INFO      -     Receive job from pool
+2024-05-27 12:04:09,455     -      INFO      -     Start new block
+2024-05-27 12:04:16,225     -      INFO      -     Submit block network: NONCE:1417817, Curtime: 1716786039, Hash: 0000064387f7ef6f50a2ce2b095d8a12bd729bbb1e12db00575ef5c29fa32dc8, Hashrate: 212674.06102233374
+2024-05-27 12:04:16,244     -      INFO      -     Request new job from pool
+2024-05-27 12:04:16,366     -      INFO      -     Receive job from pool
+2024-05-27 12:04:16,367     -      INFO      -     Start new block
+2024-05-27 12:04:20,282     -      INFO      -     Submit block network: NONCE:684679, Curtime: 1716786256, Hash: 0000035b6f3834821729127623acb0ddab4a265379e56775ee85cc75135394af, Hashrate: 179528.8353983434
+2024-05-27 12:04:20,307     -      INFO      -     Request new job from pool
+2024-05-27 12:04:20,410     -      INFO      -     Receive job from pool
+2024-05-27 12:04:20,411     -      INFO      -     Start new block
+2024-05-27 12:04:21,789     -      INFO      -     Submit block network: NONCE:288676, Curtime: 1716786260, Hash: 000003105eb6af29168050f9c7c5ce0afb81b866bb56a335c90d2a973bd5fe4f, Hashrate: 231558.59817031983
+2024-05-27 12:04:21,985     -      INFO      -     Request new job from pool
+2024-05-27 12:04:22,283     -      INFO      -     Receive job from pool
+2024-05-27 12:04:22,284     -      INFO      -     Start new block
+2024-05-27 12:04:27,330     -      INFO      -     Submit block network: NONCE:998124, Curtime: 1716786261, Hash: 00000205de58e30aa717f757e51808d87fe9574d5959482d5b77ed158dc7d59a, Hashrate: 201881.9597398781
+2024-05-27 12:04:27,346     -      INFO      -     Request new job from pool
+2024-05-27 12:04:27,458     -      INFO      -     Receive job from pool
+2024-05-27 12:04:27,459     -      INFO      -     Start new block
+2024-05-27 12:04:29,821     -      INFO      -     Submit block network: NONCE:475148, Curtime: 1716786267, Hash: 000006f736b4a29eb082447c77df47256f2bf9e15d5bae53893b852b04193f31, Hashrate: 210295.9006162365
+2024-05-27 12:04:30,129     -      INFO      -     Request new job from pool
+2024-05-27 12:04:30,164     -      INFO      -     Receive job from pool
+2024-05-27 12:04:30,166     -      INFO      -     Start new block
+2024-05-27 12:04:30,528     -      INFO      -     Submit block network: NONCE:33420, Curtime: 1716786269, Hash: 000008f5fdb8fc29b60f97f45d6e312370cb459e7b6e6c40f83519226301804f, Hashrate: 129093.06549619924
+2024-05-27 12:04:30,555     -      INFO      -     Request new job from pool
+2024-05-27 12:04:30,694     -      INFO      -     Receive job from pool
+2024-05-27 12:04:30,695     -      INFO      -     Start new block
+2024-05-27 12:04:42,558     -      INFO      -     Submit block network: NONCE:2508112, Curtime: 1716786270, Hash: 00000239748fd3a4dba900c02be428f32f956b5dd4470a916e7913bbba7faa1a, Hashrate: 213274.5101392113
+2024-05-27 12:04:42,586     -      INFO      -     Request new job from pool
+2024-05-27 12:04:42,722     -      INFO      -     Receive job from pool
+2024-05-27 12:04:42,724     -      INFO      -     Start new block
+2024-05-27 12:04:50,286     -      INFO      -     Submit block network: NONCE:1427992, Curtime: 1716786282, Hash: 00000329fcc3606777b91b229e0656035f532df822658c9eefc99d79ceb8b1a5, Hashrate: 191395.3888376518
+2024-05-27 12:04:50,298     -      INFO      -     Request new job from pool
+2024-05-27 12:04:50,422     -      INFO      -     Receive job from pool
+2024-05-27 12:04:50,423     -      INFO      -     Start new block
+2024-05-27 12:05:12,902     -      INFO      -     Submit block network: NONCE:4661855, Curtime: 1716786290, Hash: 0000086d5f67da760a316f4a439e4d79000226387eebf9cb6f7dabbd12e1e95e, Hashrate: 208322.02657574264
+2024-05-27 12:05:12,929     -      INFO      -     Request new job from pool
+2024-05-27 12:05:13,026     -      INFO      -     Receive job from pool
+2024-05-27 12:05:13,027     -      INFO      -     Start new block
+2024-05-27 12:05:18,156     -      INFO      -     Submit block network: NONCE:948849, Curtime: 1716786312, Hash: 000008dd8cd935bd217a24ae4e5904982bdc1526c4a074bb5e743398e793d6be, Hashrate: 188764.60457399342
+2024-05-27 12:05:18,468     -      INFO      -     Request new job from pool
+2024-05-27 12:05:18,490     -      INFO      -     Receive job from pool
+2024-05-27 12:05:18,490     -      INFO      -     Start new block
+2024-05-27 12:05:22,249     -      INFO      -     Submit block network: NONCE:687856, Curtime: 1716786318, Hash: 00000244e1c54fe752f07f67819a602ace98ee02dadcbc818bb0fbd070ba2f48, Hashrate: 188061.75327948763
+2024-05-27 12:05:22,269     -      INFO      -     Request new job from pool
+2024-05-27 12:05:22,423     -      INFO      -     Receive job from pool
+2024-05-27 12:05:22,424     -      INFO      -     Start new block
+2024-05-27 12:05:56,385     -      INFO      -     Submit block network: NONCE:4881035, Curtime: 1716786322, Hash: 000002655ff72d97367dd6ff163c9cb3369ed3d7bb0e63e746c08aa1df7c9dbf, Hashrate: 144163.20373268548
+2024-05-27 12:05:56,464     -      INFO      -     Request new job from pool
+2024-05-27 12:05:56,582     -      INFO      -     Receive job from pool
+2024-05-27 12:05:56,583     -      INFO      -     Start new block
+2024-05-27 12:06:13,687     -      INFO      -     Submit block network: NONCE:2682028, Curtime: 1716786356, Hash: 000007e97f3a16836197e68577b3fe3200cb54c4dadcde1b7e5058f67e2eadc5, Hashrate: 157758.25297899588
+2024-05-27 12:06:13,706     -      INFO      -     Request new job from pool
+2024-05-27 12:06:13,836     -      INFO      -     Receive job from pool
+2024-05-27 12:06:13,837     -      INFO      -     Start new block
+2024-05-27 12:06:16,385     -      INFO      -     Submit block network: NONCE:485295, Curtime: 1716786373, Hash: 000002dcaaa72e632076d503f10440c17b7b7a03864b8d83c53d781a88be8c02, Hashrate: 198995.55220899533
+2024-05-27 12:06:16,655     -      INFO      -     Request new job from pool
+2024-05-27 12:06:17,509     -      INFO      -     Receive job from pool
+2024-05-27 12:06:17,510     -      INFO      -     Start new block
+2024-05-27 12:07:01,114     -      INFO      -     Submit block network: NONCE:6397214, Curtime: 1716786376, Hash: 000004293fa1a832150c6756642b702470116ba3a02c14e6523be70640696f54, Hashrate: 147053.32833559866
+2024-05-27 12:07:01,240     -      INFO      -     Request new job from pool
+2024-05-27 12:07:01,276     -      INFO      -     Receive job from pool
+2024-05-27 12:07:01,277     -      INFO      -     Start new block
+2024-05-27 12:07:05,532     -      INFO      -     Submit block network: NONCE:721235, Curtime: 1716786421, Hash: 0000070c7c627d5122b3865228df25d9bdff38eba69db6cb151e16ddb8444ebe, Hashrate: 173660.3669172822
+2024-05-27 12:07:05,550     -      INFO      -     Request new job from pool
+2024-05-27 12:07:05,710     -      INFO      -     Receive job from pool
+2024-05-27 12:07:05,711     -      INFO      -     Start new block
+2024-05-27 12:07:14,628     -      INFO      -     Submit block network: NONCE:968247, Curtime: 1716786425, Hash: 00000559f4aa30ca13fbefe9dc472e32beed55b34ff9d9802976483d534c6f0f, Hashrate: 109928.43592997361
+2024-05-27 12:07:14,987     -      INFO      -     Request new job from pool
+2024-05-27 12:07:18,320     -      INFO      -     Receive job from pool
+2024-05-27 12:07:18,330     -      INFO      -     Start new block
+2024-05-27 12:07:27,822     -      INFO      -     Submit block network: NONCE:1285958, Curtime: 1716786434, Hash: 0000089f28632f115fb683654c6ae020b7e15a4e184854dae59a3d0466d39102, Hashrate: 136933.4328301083
+2024-05-27 12:07:27,891     -      INFO      -     Request new job from pool
+2024-05-27 12:07:28,268     -      INFO      -     Receive job from pool
+2024-05-27 12:07:28,269     -      INFO      -     Start new block
+2024-05-27 12:07:30,032     -      INFO      -     Submit block network: NONCE:217630, Curtime: 1716786447, Hash: 00000112301b7c8239c5df81adcb202bd11da87fac9f999f6df2c77bd5d9179a, Hashrate: 130971.25374972183
+2024-05-27 12:07:30,049     -      INFO      -     Request new job from pool
+2024-05-27 12:07:30,211     -      INFO      -     Receive job from pool
+2024-05-27 12:07:30,212     -      INFO      -     Start new block
+2024-05-27 12:07:52,322     -      INFO      -     Submit block network: NONCE:3159902, Curtime: 1716786450, Hash: 0000026b016fc2670ba04298d867dad0d9c392483204db58d5cab7f800bf3ee9, Hashrate: 143584.6687582316
+2024-05-27 12:07:52,383     -      INFO      -     Request new job from pool
+2024-05-27 12:07:52,487     -      INFO      -     Receive job from pool
+2024-05-27 12:07:52,488     -      INFO      -     Start new block
+2024-05-27 12:07:58,300     -      INFO      -     Submit block network: NONCE:741965, Curtime: 1716786472, Hash: 0000022d3c397beb541ab6f0fc4ce4c0d40985ae7b1deee37228f35fa660d800, Hashrate: 129942.0951504499
+2024-05-27 12:07:58,353     -      INFO      -     Request new job from pool
+2024-05-27 12:07:58,535     -      INFO      -     Receive job from pool
+2024-05-27 12:07:58,537     -      INFO      -     Start new block
+2024-05-27 12:08:12,434     -      INFO      -     Submit block network: NONCE:1289793, Curtime: 1716786478, Hash: 000001bb65aa0e82542a91b0af2afe1f99aee5cca502afa2196edb6bc06d8b5b, Hashrate: 107254.80318130055
+2024-05-27 12:08:12,820     -      INFO      -     Request new job from pool
+2024-05-27 12:08:13,258     -      INFO      -     Receive job from pool
+2024-05-27 12:08:13,258     -      INFO      -     Start new block
+2024-05-27 12:08:16,064     -      INFO      -     Submit block network: NONCE:505164, Curtime: 1716786492, Hash: 0000089f308fa244a3255bd3960d3c54846a26699949bc6800a27dca91b68b56, Hashrate: 186876.2382738613
+2024-05-27 12:08:16,080     -      INFO      -     Request new job from pool
+2024-05-27 12:08:16,182     -      INFO      -     Receive job from pool
+2024-05-27 12:08:16,183     -      INFO      -     Start new block
+2024-05-27 12:08:20,989     -      INFO      -     Submit block network: NONCE:716729, Curtime: 1716786496, Hash: 000005c1dcca2139d3ae9d2d2fe60a174f810e8a7564f6e63fef19313e0fc726, Hashrate: 152392.5373078884
+2024-05-27 12:08:21,010     -      INFO      -     Request new job from pool
+2024-05-27 12:08:21,138     -      INFO      -     Receive job from pool
+2024-05-27 12:08:21,139     -      INFO      -     Start new block
+2024-05-27 12:08:21,528     -      INFO      -     Submit block network: NONCE:44878, Curtime: 1716786501, Hash: 0000079c1a5957a968d00c9156e084c6afc13c17dde795b9d9b623c4d3006b94, Hashrate: 174626.96286235665
+2024-05-27 12:08:21,594     -      INFO      -     Request new job from pool
+2024-05-27 12:08:21,687     -      INFO      -     Receive job from pool
+2024-05-27 12:08:21,688     -      INFO      -     Start new block
+2024-05-27 12:08:31,602     -      INFO      -     Submit block network: NONCE:1373425, Curtime: 1716786501, Hash: 000001c794f8ce8ee6e1c790992a677420f594e6dde0baed916d76f668329bca, Hashrate: 140000.19469794186
+2024-05-27 12:08:31,619     -      INFO      -     Request new job from pool
+2024-05-27 12:08:31,739     -      INFO      -     Receive job from pool
+2024-05-27 12:08:31,740     -      INFO      -     Start new block
+2024-05-27 12:08:40,733     -      INFO      -     Submit block network: NONCE:1299171, Curtime: 1716786511, Hash: 000009aee1afb6da8eb2574e16b73d18de3aa850d79c68984f07569fb6aa48ef, Hashrate: 146107.5717202363
+2024-05-27 12:08:40,752     -      INFO      -     Request new job from pool
+2024-05-27 12:08:40,870     -      INFO      -     Receive job from pool
+2024-05-27 12:08:40,871     -      INFO      -     Start new block
+2024-05-27 12:08:45,444     -      INFO      -     Submit block network: NONCE:696414, Curtime: 1716786520, Hash: 00000668d7db4b0bb98e96707f34e0f09fecd34387959dc9ee11536e85026236, Hashrate: 155828.607261736
+2024-05-27 12:08:45,460     -      INFO      -     Request new job from pool
+2024-05-27 12:08:45,634     -      INFO      -     Receive job from pool
+2024-05-27 12:08:45,635     -      INFO      -     Start new block
+2024-05-27 12:08:52,303     -      INFO      -     Submit block network: NONCE:932474, Curtime: 1716786525, Hash: 000004c7857228f525f4bcf3ec5f627767b0bf28c0e164cb19b3b7bd88a39998, Hashrate: 183534.2233504663
+2024-05-27 12:08:52,606     -      INFO      -     Request new job from pool
+2024-05-27 12:08:53,266     -      INFO      -     Receive job from pool
+2024-05-27 12:08:53,268     -      INFO      -     Start new block
+2024-05-27 12:08:57,976     -      INFO      -     Submit block network: NONCE:851185, Curtime: 1716786532, Hash: 000003ab2f9b38e7ccceea8fe81bc4401aba5ccfdbe76db1f93cb0e7593e91c7, Hashrate: 184780.93716582446
+2024-05-27 12:08:58,299     -      INFO      -     Request new job from pool
+2024-05-27 12:08:58,341     -      INFO      -     Receive job from pool
+2024-05-27 12:08:58,343     -      INFO      -     Start new block
+2024-05-27 12:09:05,391     -      INFO      -     Submit block network: NONCE:1033419, Curtime: 1716786537, Hash: 000003b64b3fdabbc107c2a081524deaaa2ac8860915e41becf1ee8133a26604, Hashrate: 148758.94555279415
+2024-05-27 12:09:05,422     -      INFO      -     Request new job from pool
+2024-05-27 12:09:05,538     -      INFO      -     Receive job from pool
+2024-05-27 12:09:05,539     -      INFO      -     Start new block
+2024-05-27 12:10:55,188     -      INFO      -     Connected to 127.0.0.1:3002
+2024-05-27 12:10:55,211     -      INFO      -     Authorize success
+2024-05-27 12:11:01,086     -      INFO      -     Receive job from pool
+2024-05-27 12:11:01,087     -      INFO      -     Start new block
+2024-05-27 12:11:02,249     -      INFO      -     Submit share: NONCE:164286, Curtime: 1716786651, Hash: 0000ddec6c3f6bd7dc92d40fc191a2f0e894f12648e46dcab143b8f3013c15ed, Hashrate: 141423.05016737233
+2024-05-27 12:11:03,318     -      INFO      -     Submit share: NONCE:344519, Curtime: 1716786651, Hash: 0000c9914a320e867c77b7a3fac0e5c49e520ebcd12e3de9a63a65e34aa27509, Hashrate: 168623.1722368204
+2024-05-27 12:11:04,497     -      INFO      -     Submit share: NONCE:575379, Curtime: 1716786651, Hash: 00000bac706ea9885e1d8ad3826caebcb57b9f4e9b8297220ca68eab976be5ae, Hashrate: 195945.04819458257
+2024-05-27 12:11:05,016     -      INFO      -     Submit share: NONCE:668514, Curtime: 1716786651, Hash: 0000eee91cd5171016ffd45f215f8017040c30970545e5a1695ef8979a1c4ec1, Hashrate: 179673.3438675329
+2024-05-27 12:11:05,298     -      INFO      -     Submit share: NONCE:723042, Curtime: 1716786651, Hash: 0000e193791969384cf80ad80b47f528e14e0fa3413f88bf54e3447ad9b18152, Hashrate: 193472.2849988495
+2024-05-27 12:11:05,360     -      INFO      -     Submit share: NONCE:731649, Curtime: 1716786651, Hash: 00008e2998c2c1ae0c2de6245f534ea37ccc9a9deed569cedb913089332b5f87, Hashrate: 140104.25567656945
+2024-05-27 12:11:05,973     -      INFO      -     Submit share: NONCE:892225, Curtime: 1716786651, Hash: 0000f56792a148cb8c7cd0dd5fbd3065974fa4df3c2a00a84fd4d5cfb39ea6c3, Hashrate: 262315.1194691851
+2024-05-27 12:11:06,148     -      INFO      -     Submit share: NONCE:912291, Curtime: 1716786651, Hash: 0000be66b067276de4fb1fa994835320da883a47c8ac016d623fa4425df286d6, Hashrate: 114737.36487205006
+2024-05-27 12:11:06,377     -      INFO      -     Submit share: NONCE:953124, Curtime: 1716786651, Hash: 000087630d1d8490dd8caf9db42f866f7b57aed0c7f6d21f6ff164cef01fe2af, Hashrate: 178503.530663487
+2024-05-27 12:11:06,679     -      INFO      -     Submit share: NONCE:1000829, Curtime: 1716786651, Hash: 000061abeac0f79caf8d0d3adde4ed631e2228b3af01d51d64f9f4fd49aa15f8, Hashrate: 158518.00990474742
+2024-05-27 12:26:37,294     -      INFO      -     Submit share: NONCE:1098249, Curtime: 1716786651, Hash: 000054d435eb3172e223b7df2fbbededc521960eb1cab5ae93ade46cbe29f927, Hashrate: 104.6823492084098
+2024-05-27 12:26:37,334     -      INFO      -     Submit share: NONCE:1101237, Curtime: 1716786651, Hash: 00002d8d658c98a3aa5a6fe2ce6ed35be370d24f99cf97cbc11d02d9b4e15b83, Hashrate: 76793.42205658804
+2024-05-27 12:26:37,421     -      INFO      -     Submit share: NONCE:1111893, Curtime: 1716786651, Hash: 00008b006a7f9cd6b1bb9b438e4aeb991c430eaff892c1eb7bd5a6c8630a0d3f, Hashrate: 123905.01638562501
+2024-05-27 12:26:37,647     -      INFO      -     Submit block network: NONCE:1126720, Curtime: 1716786651, Hash: 00000026291266c7b2d2a73b1b639253a8ae6d8209760980f35428a613752221, Hashrate: 118192.29984870717
+2024-05-27 12:26:37,669     -      INFO      -     Request new job from pool
+2024-05-27 12:26:37,835     -      INFO      -     Receive job from pool
+2024-05-27 12:26:37,837     -      INFO      -     Start new block
+2024-05-27 12:26:38,095     -      INFO      -     Submit share: NONCE:37173, Curtime: 1716787597, Hash: 0000bfe828abf20d53dc6e8c8ed4ab6ec7832ad4478401633c76aeebb57aa930, Hashrate: 144823.55094302818
+2024-05-27 12:26:38,390     -      INFO      -     Submit share: NONCE:94085, Curtime: 1716787597, Hash: 000066686be10de177ad78705697f9df414845f99785b9359cdfd45c08ada8c7, Hashrate: 193304.47823136413
+2024-05-27 12:26:40,406     -      INFO      -     Submit share: NONCE:453532, Curtime: 1716787597, Hash: 00006e9ab23a8d6868d052cee0a68368ac99c33932b6fd0eff3288c945bb4f0b, Hashrate: 178276.95311784217
+2024-05-27 12:26:40,683     -      INFO      -     Submit share: NONCE:497761, Curtime: 1716787597, Hash: 0000b286b97830ad854bd63b83ee1c059c7f3d0d5668d4c7539194f18d5c5c05, Hashrate: 159841.66019306213
+2024-05-27 12:26:40,872     -      INFO      -     Submit share: NONCE:524782, Curtime: 1716787597, Hash: 000057033cda2a135a6fdbeadfeb840971bd2ff67f3d0368058656a86ce88d2c, Hashrate: 143712.49672516354
+2024-05-27 12:26:41,725     -      INFO      -     Submit share: NONCE:673498, Curtime: 1716787597, Hash: 00006feb10129074f7224deb1955ed093d58418a24833b0b7a99be6ca20b8b47, Hashrate: 174424.09676719364
+2024-05-27 12:26:41,941     -      INFO      -     Submit share: NONCE:713710, Curtime: 1716787597, Hash: 0000eea49228d1f6d953d6498e4670191046dfd592b3ccffb37eb35387bb517c, Hashrate: 186568.06557536632
+2024-05-27 12:26:42,401     -      INFO      -     Submit share: NONCE:809647, Curtime: 1716787597, Hash: 00004e8fcf4a05ba015c31d7370f1bb12bbfb5acf87a8eef79d636c21ba048ed, Hashrate: 209032.7756199532
+2024-05-27 12:26:42,696     -      INFO      -     Submit share: NONCE:863726, Curtime: 1716787597, Hash: 0000b0992f3f87d02d83f48b88c393da6cd011e53f28906a87948d3fa40c7155, Hashrate: 182993.3874026217
+2024-05-27 12:26:43,070     -      INFO      -     Submit share: NONCE:934907, Curtime: 1716787597, Hash: 00003cb0920106731441f9bb8d51547fc8d6d0fa1b4cface17169f70a536e18a, Hashrate: 190859.5720611005
+2024-05-27 12:26:43,793     -      INFO      -     Submit share: NONCE:1104146, Curtime: 1716787597, Hash: 0000b40a00ac94c4bf2850a41006b59e6dd33fbc5fd1a89525048d550d1a73ed, Hashrate: 234310.70798752122
+2024-05-27 12:26:43,980     -      INFO      -     Submit share: NONCE:1144428, Curtime: 1716787597, Hash: 00004a7417f4c0a6b0cce1cd3fba1d118c08243d84f45d7cdeacc7070e171660, Hashrate: 215166.06291047885
+2024-05-27 12:26:44,689     -      INFO      -     Submit share: NONCE:1275581, Curtime: 1716787597, Hash: 0000adf7e0c21de24b76ed2e9c8e04878f4fc00ea4f7af07d2b00f553a92c303, Hashrate: 185236.34023274615
+2024-05-27 12:26:44,789     -      INFO      -     Submit share: NONCE:1290971, Curtime: 1716787597, Hash: 0000ada25d98c61761d0df6719f16b1696b6b8374bfbf1263fe67d5fa5067d04, Hashrate: 154738.30584636482
+2024-05-27 12:26:44,811     -      INFO      -     Submit share: NONCE:1293686, Curtime: 1716787597, Hash: 000057c49378bf75013e6de8c352ee6e6b02743f6c7bfb557f0a0dbc51c80557, Hashrate: 128368.58549567532
+2024-05-27 12:26:46,368     -      INFO      -     Submit share: NONCE:1544628, Curtime: 1716787597, Hash: 00007b8c1f0f7b17901f6c27ae94615d13b74b878fb5c7053f93663b8589596c, Hashrate: 161242.97019865623
+2024-05-27 12:26:46,411     -      INFO      -     Submit share: NONCE:1549224, Curtime: 1716787597, Hash: 0000104585ae1e79f15b511b856f1380b871aeadd3d99845ed9dd2075e59f14e, Hashrate: 107969.809189813
+2024-05-27 12:26:46,665     -      INFO      -     Submit share: NONCE:1592623, Curtime: 1716787597, Hash: 00001974c30d0f55778e5ee41185e88b55c5dcf8d79a57ce25ee7148d44fdf6a, Hashrate: 171151.49294799948
+2024-05-27 12:26:46,944     -      INFO      -     Submit share: NONCE:1655256, Curtime: 1716787597, Hash: 00004fef269afdde481669c4963d87c6529261944063062e06fe3709f17f44ae, Hashrate: 224513.32061165257
+2024-05-27 12:26:46,969     -      INFO      -     Submit share: NONCE:1659589, Curtime: 1716787597, Hash: 0000c8af03bc3610810103c7f8cce5002eb6fd339bd74a59f4fec5c18c02c3f5, Hashrate: 181773.5941895596
+2024-05-27 12:26:47,119     -      INFO      -     Submit share: NONCE:1685041, Curtime: 1716787597, Hash: 0000be1d86dcc02cf53b2eb85054b026386609ac3069b9d62d547d84760d6632, Hashrate: 170214.8646945518
+2024-05-27 12:26:47,283     -      INFO      -     Submit share: NONCE:1711249, Curtime: 1716787597, Hash: 0000cdf757a299a18cfde025167f11fca1cdea948cb5d4d96eea226df7d0bb8b, Hashrate: 159444.79408407107
+2024-05-27 12:26:47,999     -      INFO      -     Submit share: NONCE:1839264, Curtime: 1716787597, Hash: 0000ae1fdc2fe7283a949fe749045a7190aa53c82aa75d59a090eccebdb6ab85, Hashrate: 179025.83586547495
+2024-05-27 12:26:48,198     -      INFO      -     Submit share: NONCE:1868609, Curtime: 1716787597, Hash: 0000efeaaaa7e2609b35f9849b6ef8fea01c949c45e4756a91bea8720c0b671e, Hashrate: 147454.90077155316
+2024-05-27 12:26:48,268     -      INFO      -     Submit share: NONCE:1881388, Curtime: 1716787597, Hash: 0000a55d4cd9a15b99220136c9bd6051c4c4576845aeafe48d0a12e86a551939, Hashrate: 184684.89059807855
+2024-05-27 12:26:48,272     -      INFO      -     Submit share: NONCE:1882427, Curtime: 1716787597, Hash: 0000cb04d61836c0425e8cf993dd980f429a4e231ab765e9a073f5a9bb58c517, Hashrate: 248810.58132357983
+2024-05-27 12:26:48,451     -      INFO      -     Submit share: NONCE:1913393, Curtime: 1716787597, Hash: 00008a6239a08100ea1be848c6ae933dc80cdbbd559ef68dd0cbb90bd7f63755, Hashrate: 174201.03031831278
+2024-05-27 12:26:48,481     -      INFO      -     Submit share: NONCE:1920821, Curtime: 1716787597, Hash: 0000d5b2c8a8a24a9229d7365f0493ce2699fba0bf29bdc2171fceb19ef2c811, Hashrate: 255772.92275354703
+2024-05-27 12:26:48,796     -      INFO      -     Submit share: NONCE:1980506, Curtime: 1716787597, Hash: 000093d9be6a9000aa6c024c5220fae0906fc6857397e66741690833d6d0f440, Hashrate: 189808.5785073586
+2024-05-27 12:26:49,694     -      INFO      -     Submit share: NONCE:2135099, Curtime: 1716787597, Hash: 0000c58dc654d9c9cb2ce838da0e215e056b3d9bad6d5fe955e4a32acc788932, Hashrate: 172184.45344754835
+2024-05-27 12:26:50,614     -      INFO      -     Submit share: NONCE:2321457, Curtime: 1716787597, Hash: 00006947b0703041ee09bff43dc9aaeaf34aa8f14f0a733a0ae613ec48558595, Hashrate: 202687.1103442428
+2024-05-27 12:26:51,524     -      INFO      -     Submit share: NONCE:2466162, Curtime: 1716787597, Hash: 00001e882791abb3c8e0089620297cb993318f65d5faca0dfaeb3ea6e83b8f97, Hashrate: 159160.52664019115
+2024-05-27 12:26:52,785     -      INFO      -     Submit share: NONCE:2701069, Curtime: 1716787597, Hash: 00008d498c477da24878edee271e7e3e914d460099eab8768d1150f85c06932f, Hashrate: 186297.15876949398
+2024-05-27 12:26:53,048     -      INFO      -     Submit share: NONCE:2760914, Curtime: 1716787597, Hash: 0000cdf560c07276cfd6fba28d086742cda8c6772464a94054f1127fd57a0589, Hashrate: 228622.26598099276
+2024-05-27 12:26:53,762     -      INFO      -     Submit share: NONCE:2884601, Curtime: 1716787597, Hash: 000041251413e6b3300c7c148624545e2fd947b10e0947d0b08a650bbfd697de, Hashrate: 173219.39935577384
+2024-05-27 12:26:53,802     -      INFO      -     Submit share: NONCE:2892851, Curtime: 1716787597, Hash: 00006e6fb341c57952eefa943252476223572e6bb46e4fbf4edf8a3b928345dc, Hashrate: 218762.4556358555
+2024-05-27 12:26:53,889     -      INFO      -     Submit share: NONCE:2912027, Curtime: 1716787597, Hash: 0000ea511e98845e97cfba181118c085f7ec576015564597bb490611d981d33f, Hashrate: 223852.02445996308
+2024-05-27 12:26:54,872     -      INFO      -     Submit share: NONCE:3142819, Curtime: 1716787597, Hash: 0000dc9f3d5c685106ba07878cd1df7d3a059626750a5ea23ae9cb9c2a35c289, Hashrate: 234958.5511288116
+2024-05-27 12:26:55,057     -      INFO      -     Submit share: NONCE:3147140, Curtime: 1716787597, Hash: 0000ad3d43a0a59add15613d4c5adf7f59e9fc71cee50836852e8dc20a11dabb, Hashrate: 23569.29863379342
+2024-05-27 12:26:55,077     -      INFO      -     Submit share: NONCE:3149651, Curtime: 1716787597, Hash: 0000a6f3819272d87ac4b930ca214dce5c476979153e66b1ed35a3303548dd04, Hashrate: 134961.90039100058
+2024-05-27 12:26:55,680     -      INFO      -     Submit share: NONCE:3248784, Curtime: 1716787597, Hash: 00000d28f2e33d354f48bb566c2107e1424d03ee150d2a570f0f96357b3b41c4, Hashrate: 164795.6250509797
+2024-05-27 12:26:56,149     -      INFO      -     Submit share: NONCE:3301114, Curtime: 1716787597, Hash: 000042162673434e5653fe5ceaa7b7e491444c3c37ecebea7faa061ba66d2a04, Hashrate: 111713.89656715165
+2024-05-27 12:26:56,296     -      INFO      -     Submit share: NONCE:3328639, Curtime: 1716787597, Hash: 0000c10958797c40c5a3ddb5302ca41c4fafeeb33755cd54a4ab584e829d394f, Hashrate: 186911.50718217733
+2024-05-27 12:26:56,975     -      INFO      -     Submit share: NONCE:3459466, Curtime: 1716787597, Hash: 0000222bf609052a02552ed68b3ed60f27473749804f8a45e12bdcb27bb75b0c, Hashrate: 192890.67620004775
+2024-05-27 12:26:57,746     -      INFO      -     Submit share: NONCE:3609292, Curtime: 1716787597, Hash: 0000db5835a2b873d29db5af0d2ea630fe7cf8d7c096e8208904455399b4703f, Hashrate: 194522.33384109204
+2024-05-27 12:26:57,881     -      INFO      -     Submit share: NONCE:3629828, Curtime: 1716787597, Hash: 0000f07e912ce8f2d139ae6d7bff209f68cdc50417b79faa76b7deab1490d682, Hashrate: 152532.9755518759
+2024-05-27 12:26:58,343     -      INFO      -     Submit share: NONCE:3692178, Curtime: 1716787597, Hash: 0000174183b219d95c9f0dfe066f81fded6a68ef9a2dfb9f35b98f3c1f652bd9, Hashrate: 135189.82674488574
+2024-05-27 12:26:59,122     -      INFO      -     Submit share: NONCE:3847785, Curtime: 1716787597, Hash: 00009e7e07e66437c95b093baf8b61ecfd60f29690f9ce17eb1fed61866a5a38, Hashrate: 199823.36186228617
+2024-05-27 12:26:59,463     -      INFO      -     Submit share: NONCE:3914972, Curtime: 1716787597, Hash: 000096b4a21f5fe7ad8e546b0cd841c19cfe611e43aadcafdcd8478834df0ff5, Hashrate: 197531.6879823973
+2024-05-27 12:26:59,667     -      INFO      -     Submit share: NONCE:3947294, Curtime: 1716787597, Hash: 0000914892e2c37219dccdd55026b1b4d657651ea7814979e46ec39dc0c67925, Hashrate: 158106.07293232644
+2024-05-27 12:27:00,315     -      INFO      -     Submit share: NONCE:4044111, Curtime: 1716787597, Hash: 00004037989ce19f869e84ce3e4702043741e465b1877dd095c168a1508907c5, Hashrate: 149546.3389575839
+2024-05-27 12:27:01,316     -      INFO      -     Submit share: NONCE:4169891, Curtime: 1716787597, Hash: 0000c465c481206c3f4e176737fe343feaef8369bd245e1d3af1743827ae8317, Hashrate: 125781.78895053205
+2024-05-27 12:27:01,506     -      INFO      -     Submit share: NONCE:4213277, Curtime: 1716787597, Hash: 000016c99ab87a4a79d5afa824848a1c6c0cf2ae6d3a1ef7a44611e14c29314c, Hashrate: 228889.18676801512
+2024-05-27 12:27:01,578     -      INFO      -     Submit share: NONCE:4228943, Curtime: 1716787597, Hash: 000092311de1026263f1f2163fbcc00af101d4791439c082db5a9210bc3228b6, Hashrate: 217937.4159479899
+2024-05-27 12:27:01,776     -      INFO      -     Submit share: NONCE:4270843, Curtime: 1716787597, Hash: 0000ff8e488520564a199647a1c7450ea233dfbaade0d1656a13da3fe4c6243c, Hashrate: 212626.32173230234
+2024-05-27 12:27:02,021     -      INFO      -     Submit share: NONCE:4315207, Curtime: 1716787597, Hash: 000013fc88693c3c26cd61c1929c5a8f94a581625200064ae32f4a6d8d9a00eb, Hashrate: 181345.1470930204
+2024-05-27 12:27:02,074     -      INFO      -     Submit share: NONCE:4323936, Curtime: 1716787597, Hash: 000013536bbaa0675dd7496186a639d88792f41ebaeea0a9e490e925a33cf904, Hashrate: 166296.67710869643
+2024-05-27 12:27:02,336     -      INFO      -     Submit share: NONCE:4364934, Curtime: 1716787597, Hash: 0000b50289969893f317ec85953b43204c9d3ac75d8deb730b86d20888e93625, Hashrate: 157033.35670104975
+2024-05-27 12:27:02,473     -      INFO      -     Submit share: NONCE:4388567, Curtime: 1716787597, Hash: 00005f61e6e557f11f77fb2fd69ec340907c7d87fbe1c4952a7e85fb1be8cad3, Hashrate: 173122.30740801548
+2024-05-27 12:27:02,761     -      INFO      -     Submit share: NONCE:4445716, Curtime: 1716787597, Hash: 00002c13144557605d7b81f1a110c4cfe56b95d530137c5aee5a192634d8e703, Hashrate: 199067.41992284663
+2024-05-27 12:27:02,834     -      INFO      -     Submit share: NONCE:4457144, Curtime: 1716787597, Hash: 00008951996d0a9e026b7dad161f797462c734409de6ecee250b22078d180879, Hashrate: 157854.16109398467
+2024-05-27 12:27:03,220     -      INFO      -     Submit share: NONCE:4530720, Curtime: 1716787597, Hash: 000028d2a19a285422fb8087c3e355b2627130ae6a9df31eed7339e92f6115be, Hashrate: 190839.88396088907
+2024-05-27 12:27:03,317     -      INFO      -     Submit share: NONCE:4543334, Curtime: 1716787597, Hash: 0000d23d7ef90399bea49b4690755e91395fed36c62ccf6b96582fe8c2fc2231, Hashrate: 130946.12021663152
+2024-05-27 12:27:04,047     -      INFO      -     Submit share: NONCE:4663511, Curtime: 1716787597, Hash: 0000926ebb0573fd16e5f8fb1a3342e1c73fde2fb4a7868548bbcf4ed513963a, Hashrate: 164815.47655574328
+2024-05-27 12:27:04,174     -      INFO      -     Submit share: NONCE:4691444, Curtime: 1716787597, Hash: 0000faf8d6f04e9b7f4ff571df22cd07c7c4302587f717235f811d0498a3f293, Hashrate: 220622.72363616506
+2024-05-27 12:27:04,183     -      INFO      -     Submit share: NONCE:4693699, Curtime: 1716787597, Hash: 00005e09ec03c72963bfafbdc6763ae79df1d123b512a5fd4421a25f1df9b505, Hashrate: 277730.94054054056
+2024-05-27 12:27:04,693     -      INFO      -     Submit share: NONCE:4771036, Curtime: 1716787597, Hash: 00002ff2bce03d9cea18fcb7e63aef52ad6ab481f067c86409468e5704c7b966, Hashrate: 151681.19668010753
+2024-05-27 12:27:05,066     -      INFO      -     Submit share: NONCE:4824991, Curtime: 1716787597, Hash: 0000eaae492169bab97b72ee15f8ecdbd5ed7c91dead671580edf6712242f31b, Hashrate: 145051.02950317826
+2024-05-27 12:27:05,371     -      INFO      -     Submit share: NONCE:4885548, Curtime: 1716787597, Hash: 00004106596338aadfa8828310a8fe5a872a11a2ef267310c21c946e383b5556, Hashrate: 198807.0128525046
+2024-05-27 12:27:05,433     -      INFO      -     Submit share: NONCE:4891572, Curtime: 1716787597, Hash: 0000577b757e95c3d05c8b3baa8b459241cd994ac4157752bf28ec9213e3955a, Hashrate: 98477.3378136585
+2024-05-27 12:27:05,483     -      INFO      -     Submit share: NONCE:4894566, Curtime: 1716787597, Hash: 0000b4a022ce894ddccdfbad5e9847c8925902b726590bb605dd1e6f108592de, Hashrate: 61500.23942544165
+2024-05-27 12:27:06,134     -      INFO      -     Submit share: NONCE:4932985, Curtime: 1716787597, Hash: 00005edb496ae4addcc90b89ce6344c8dae7c8ee8695d46b3b5d834ec5192ce6, Hashrate: 59040.93782660215
+2024-05-27 12:27:06,199     -      INFO      -     Submit share: NONCE:4942287, Curtime: 1716787597, Hash: 0000c0ea0da751b247bd66fde2f307fb3723aac683e5edcc0daf62cf314cfabf, Hashrate: 153368.30240247207
+2024-05-27 12:27:06,331     -      INFO      -     Submit share: NONCE:4961149, Curtime: 1716787597, Hash: 00006f70268b82fd3cc300bf437bbd66c0a266c43f2e70da2e30fa86e9830cff, Hashrate: 143688.60580103422
+2024-05-27 12:27:06,490     -      INFO      -     Submit share: NONCE:4985851, Curtime: 1716787597, Hash: 00009d7feea7ca9d72a643f006a778581bb6228eae7261391ac80eb0354113e0, Hashrate: 155452.27897038855
+2024-05-27 12:27:06,924     -      INFO      -     Submit share: NONCE:5068507, Curtime: 1716787597, Hash: 000018bd54a7d625a10a2579404d9d20819a9cb4c8bdd7e188557ef4d2369c3c, Hashrate: 190562.78163896652
+2024-05-27 12:27:07,051     -      INFO      -     Submit share: NONCE:5076641, Curtime: 1716787597, Hash: 0000b682eafca6f87278df8678ab953b47f94e9c95395c2b00fb5b6d51e9b41c, Hashrate: 64308.908069466335
+2024-05-27 12:27:07,342     -      INFO      -     Submit share: NONCE:5115114, Curtime: 1716787597, Hash: 0000eb60cb51501d9456e221aa64951055cfda82c32aba3c136a873861261093, Hashrate: 132611.06320758438
+2024-05-27 12:27:07,388     -      INFO      -     Submit share: NONCE:5121136, Curtime: 1716787597, Hash: 000059c56a84f76e32a41c6df2d3c7637f2ba849b14f2b67bc7354e328d13608, Hashrate: 134873.07539975006
+2024-05-27 12:27:07,534     -      INFO      -     Submit share: NONCE:5150131, Curtime: 1716787597, Hash: 0000df151b017a15c8a207befd65a79cd77a98b8114585a034ac09db73983822, Hashrate: 199462.75652713035
+2024-05-27 12:27:07,770     -      INFO      -     Submit share: NONCE:5181115, Curtime: 1716787597, Hash: 000042190e43fdc455b2a6c4de6eee52727bda2ecd60a6a5fe2c86a798ac839e, Hashrate: 131789.66411880855
+2024-05-27 12:27:07,853     -      INFO      -     Submit share: NONCE:5192094, Curtime: 1716787597, Hash: 0000cc7e659adbf74fee6c01ef9e95837d55a0edb85785ae1aecc2de609eb2b4, Hashrate: 133204.89515174835
+2024-05-27 12:27:07,870     -      INFO      -     Submit share: NONCE:5195921, Curtime: 1716787597, Hash: 0000f03b945fe77349bc22ce337d92d0242a27388c9b56ad648e53e2339b64a3, Hashrate: 228964.10324311213
+2024-05-27 12:27:08,045     -      INFO      -     Submit share: NONCE:5229189, Curtime: 1716787597, Hash: 000045791aa6c161836843e5b2bb853635927f4d645e8dca154f1dd310aace12, Hashrate: 191000.40952073285
+2024-05-27 12:27:08,567     -      INFO      -     Submit share: NONCE:5309356, Curtime: 1716787597, Hash: 00005cdf0d3643a2b989fa88181604d5ef757503ef05eef963307672965e194d, Hashrate: 153723.82082592123
+2024-05-27 12:27:08,661     -      INFO      -     Submit share: NONCE:5322169, Curtime: 1716787597, Hash: 00001ea8e253ed8c09675f4a88b3bf2e64faee03e4207f7728eb1d919dee131a, Hashrate: 137139.48844058238
+2024-05-27 12:27:08,825     -      INFO      -     Submit share: NONCE:5355806, Curtime: 1716787597, Hash: 00003694428361e4c9115bd31adbc0769bf3fa9dd2acc026a1014c0624a26852, Hashrate: 205427.2212848119
+2024-05-27 12:27:09,728     -      INFO      -     Submit share: NONCE:5482719, Curtime: 1716787597, Hash: 00000c17202a75533d785c141942d8585ee426f8c2c45b0d8f06f8c59378f831, Hashrate: 140688.84740061002
+2024-05-27 12:27:09,923     -      INFO      -     Submit share: NONCE:5521088, Curtime: 1716787597, Hash: 00004c28e51cfeeedee283469068786443c066388684822d4fff40cbc2f6b5e6, Hashrate: 196553.56970188484
+2024-05-27 12:27:10,209     -      INFO      -     Submit share: NONCE:5574233, Curtime: 1716787597, Hash: 0000382132199094c4a42f83b9088d155eeb5351c8f04eb1802e9fc917acad06, Hashrate: 186235.6454320476
+2024-05-27 12:27:10,733     -      INFO      -     Submit share: NONCE:5662938, Curtime: 1716787597, Hash: 000096cf12c1c2a45f7f853042a14b89cd94fe2951095fb6a60a30b70c2b298d, Hashrate: 169449.30775246158
+2024-05-27 12:27:11,113     -      INFO      -     Submit share: NONCE:5718996, Curtime: 1716787597, Hash: 000094bfe0d0586e22246d903de761118f4fdbb9605ddfb27151f9f0a7c08c21, Hashrate: 148180.42265183097
+2024-05-27 12:27:12,271     -      INFO      -     Submit share: NONCE:5956163, Curtime: 1716787597, Hash: 0000870134897f408026bcbe9d30c48c42edb79484d9ac728cc64ac0d04e3bc1, Hashrate: 204983.18656929096
+2024-05-27 12:27:12,390     -      INFO      -     Submit share: NONCE:5988237, Curtime: 1716787597, Hash: 00009fe11efa7d5a311f7a54a46dc02a49a0497701521ba74b3957fa9c963313, Hashrate: 269659.4119302578
+2024-05-27 12:27:12,916     -      INFO      -     Submit share: NONCE:6069971, Curtime: 1716787597, Hash: 00004d01c3e1ee9b76e1c10f84100b61c7b51bfed4d006368d7d6b7f9b73a108, Hashrate: 155685.62366658385
+2024-05-27 12:27:13,226     -      INFO      -     Submit share: NONCE:6135216, Curtime: 1716787597, Hash: 0000dee397b48fab57499954bdf367068d3f7c56f992e4ddd235199b8bf7dbd5, Hashrate: 210505.67714580224
+2024-05-27 12:27:13,699     -      INFO      -     Submit share: NONCE:6242828, Curtime: 1716787597, Hash: 0000694671fcf72ff12c4fbd9863af1aaed488182df9c1e98cb575de9934f734, Hashrate: 228035.76790890153
+2024-05-27 12:27:13,949     -      INFO      -     Submit share: NONCE:6283612, Curtime: 1716787597, Hash: 00004909cab3a31c49e0c72bf513e361662758cd8b68e3bd2cd77edd9206d589, Hashrate: 163424.5375528208
+2024-05-27 12:27:14,230     -      INFO      -     Submit share: NONCE:6347307, Curtime: 1716787597, Hash: 000071b0f045d1e204f0262aed7a9e963a2b7ee21141e9471b045e0dcdae021c, Hashrate: 227090.894310657
+2024-05-27 12:27:14,993     -      INFO      -     Submit share: NONCE:6505587, Curtime: 1716787597, Hash: 0000e63f33bcc47edceb12dc9d940239badc583e154871432ceb7f2be0bfe873, Hashrate: 207409.67255858594
+2024-05-27 12:27:15,873     -      INFO      -     Submit share: NONCE:6631311, Curtime: 1716787597, Hash: 00003b22a6bace09074c2b5e0baa3e3dca765ea9d759b3fd321f036ac72a2b8c, Hashrate: 142975.13982902758
+2024-05-27 12:27:16,048     -      INFO      -     Submit share: NONCE:6652500, Curtime: 1716787597, Hash: 0000a78db08bc9e16858fc433df4959e2e227bc01338b26cf9cc8aceced5185f, Hashrate: 121390.36234790162
+2024-05-27 12:27:16,288     -      INFO      -     Submit share: NONCE:6703116, Curtime: 1716787597, Hash: 000060f76a0a54b72e56ff5f550810489fc3ccbcd9463229acff290c5c05cd4a, Hashrate: 211007.97035676445
+2024-05-27 12:27:16,480     -      INFO      -     Submit share: NONCE:6741530, Curtime: 1716787597, Hash: 0000f04effc809710f9e322d794c4bd4c7f8c1ba262c0e6eabf3e7c56eb637d9, Hashrate: 200498.022036442
+2024-05-27 12:27:16,836     -      INFO      -     Submit share: NONCE:6813161, Curtime: 1716787597, Hash: 00002a382b742b3ebed78fe9a12bcdd25389b7565dcddebaa0c4ef1dbc450da3, Hashrate: 201455.87475374396
+2024-05-27 12:27:17,412     -      INFO      -     Submit share: NONCE:6919397, Curtime: 1716787597, Hash: 000061c6b303d99c1b3e47f13932c0d766d6cbd691e4d7da267f2e96118daa28, Hashrate: 184833.29915548157
+2024-05-27 12:27:17,897     -      INFO      -     Submit share: NONCE:7029478, Curtime: 1716787597, Hash: 0000bbb2ac6e34159c0259e0c73b40f3ed6d75aefc4672095ac2f44748bd5815, Hashrate: 226985.0775431224
+2024-05-27 12:27:18,127     -      INFO      -     Submit block network: NONCE:7056258, Curtime: 1716787597, Hash: 00000264a5a32554e4d674a60f4bcb95fbc1a1858f762f45096d542d8f68bb1f, Hashrate: 208325.40450669848
+2024-05-27 12:27:18,148     -      INFO      -     Request new job from pool
+2024-05-27 12:27:18,271     -      INFO      -     Receive job from pool
+2024-05-27 12:27:18,272     -      INFO      -     Start new block
+2024-05-27 12:27:18,279     -      INFO      -     Submit share: NONCE:659, Curtime: 1716787638, Hash: 0000d4c000ff04b34b5258f89835c2ba39187cd803213159a3f808430fffe19b, Hashrate: 118638.78169799983
+2024-05-27 12:27:19,302     -      INFO      -     Submit block network: NONCE:220128, Curtime: 1716787638, Hash: 000006f53e7f6feede4ff75ea57143aeaa5f77c336ed87031384310dd6408da0, Hashrate: 237924.53441938476
+2024-05-27 12:27:19,328     -      INFO      -     Request new job from pool
+2024-05-27 12:27:19,448     -      INFO      -     Receive job from pool
+2024-05-27 12:27:19,449     -      INFO      -     Start new block
+2024-05-27 12:27:19,956     -      INFO      -     Submit share: NONCE:94525, Curtime: 1716787639, Hash: 000039204a280c9aee13254d60f34920b234e83276354c48b1029f6b89db82fb, Hashrate: 186819.2001296771
+2024-05-27 12:27:20,606     -      INFO      -     Submit share: NONCE:179621, Curtime: 1716787639, Hash: 00000de87e28a8b9e259a555ed8b9f957b8e84b1980e64f250ffde834f4b3645, Hashrate: 130832.39237734817
+2024-05-27 12:27:20,800     -      INFO      -     Submit share: NONCE:209647, Curtime: 1716787639, Hash: 0000e3ef18ca95c0b2580a8610402c8c7009cafb9581a2bf68b0667b15baade9, Hashrate: 155520.318514521
+2024-05-27 12:27:21,347     -      INFO      -     Submit share: NONCE:246067, Curtime: 1716787639, Hash: 0000a296b8f622fe77c65c1e862074e438e330f09a555d94835bb9eba7a87d3e, Hashrate: 66667.25908002784
+2024-05-27 12:27:22,088     -      INFO      -     Submit block network: NONCE:359869, Curtime: 1716787639, Hash: 000007044844c12cac89794ab36d962f14154a1cb31aa10a9b8c1a4f5229e12f, Hashrate: 178210.83861351907
+2024-05-27 12:27:22,243     -      INFO      -     Request new job from pool
+2024-05-27 12:27:22,267     -      INFO      -     Receive job from pool
+2024-05-27 12:27:22,268     -      INFO      -     Start new block
+2024-05-27 12:27:30,636     -      INFO      -     Submit block network: NONCE:1094243, Curtime: 1716787642, Hash: 0000020c2c1594244cc8cd48fe4bb4dc7ea69803cb89ed82f333a0a969c004de, Hashrate: 132347.66487968777
+2024-05-27 12:27:30,668     -      INFO      -     Request new job from pool
+2024-05-27 12:27:31,688     -      INFO      -     Receive job from pool
+2024-05-27 12:27:31,688     -      INFO      -     Start new block
+2024-05-27 12:27:33,854     -      INFO      -     Submit block network: NONCE:263842, Curtime: 1716787650, Hash: 000008eab105a302e579ca8d9a55915fcce8d9ef3f1e9cbca064cd7029119606, Hashrate: 127937.25137104088
+2024-05-27 12:27:33,906     -      INFO      -     Request new job from pool
+2024-05-27 12:27:34,127     -      INFO      -     Receive job from pool
+2024-05-27 12:27:34,177     -      INFO      -     Start new block
+2024-05-27 12:27:51,934     -      INFO      -     Submit block network: NONCE:2994487, Curtime: 1716787653, Hash: 00000475e1b599c1f550cbd19b855cdbc891629709125e332d8e5eea599e2956, Hashrate: 169623.1213659796
+2024-05-27 12:27:51,966     -      INFO      -     Request new job from pool
+2024-05-27 12:27:52,095     -      INFO      -     Receive job from pool
+2024-05-27 12:27:52,096     -      INFO      -     Start new block
+2024-05-27 12:27:52,824     -      INFO      -     Submit block network: NONCE:115452, Curtime: 1716787671, Hash: 000001512e137e5de98a672dd1ee7c3351354c2a7c2e9c236d452c5394ee2783, Hashrate: 184096.7020907016
+2024-05-27 12:27:52,867     -      INFO      -     Request new job from pool
+2024-05-27 12:27:53,000     -      INFO      -     Receive job from pool
+2024-05-27 12:27:53,001     -      INFO      -     Start new block
+2024-05-27 12:28:08,430     -      INFO      -     Submit block network: NONCE:2590186, Curtime: 1716787672, Hash: 000003e7c020307fd2de3335a61bbd3c5f49147a03383da7f5f653738c63cf60, Hashrate: 168983.3824387264
+2024-05-27 12:28:08,484     -      INFO      -     Request new job from pool
+2024-05-27 12:28:08,635     -      INFO      -     Receive job from pool
+2024-05-27 12:28:08,636     -      INFO      -     Start new block
+2024-05-27 12:28:09,372     -      INFO      -     Submit block network: NONCE:122295, Curtime: 1716787688, Hash: 00000471e4c784b9e5f9d221391c251b484055c36b46f9077279fabf015d15f3, Hashrate: 192696.83681741785
+2024-05-27 12:28:09,420     -      INFO      -     Request new job from pool
+2024-05-27 12:28:09,551     -      INFO      -     Receive job from pool
+2024-05-27 12:28:09,551     -      INFO      -     Start new block
+2024-05-27 12:28:30,113     -      INFO      -     Submit block network: NONCE:2994599, Curtime: 1716787689, Hash: 0000055f10e5f6056f7dce0f661f44271d12723812f8e81881e0911fa17699e0, Hashrate: 146364.02725120893
+2024-05-27 12:28:30,135     -      INFO      -     Request new job from pool
+2024-05-27 12:28:30,255     -      INFO      -     Receive job from pool
+2024-05-27 12:28:30,256     -      INFO      -     Start new block
+2024-05-27 12:28:38,238     -      INFO      -     Submit block network: NONCE:1465570, Curtime: 1716787710, Hash: 000003df7b80712401bbf8a36045647f6c85bff33addea884e7cc1ee6f8bd447, Hashrate: 186012.03931817765
+2024-05-27 12:28:38,252     -      INFO      -     Request new job from pool
+2024-05-27 12:28:38,366     -      INFO      -     Receive job from pool
+2024-05-27 12:28:38,367     -      INFO      -     Start new block
+2024-05-27 12:28:39,210     -      INFO      -     Submit block network: NONCE:142767, Curtime: 1716787718, Hash: 0000011beabaed4be000d294c862b1f1e14ec4b280a8a79c0c77d8d2f8562f7d, Hashrate: 192713.17288754592
+2024-05-27 12:28:39,226     -      INFO      -     Request new job from pool
+2024-05-27 12:28:39,367     -      INFO      -     Receive job from pool
+2024-05-27 12:28:39,369     -      INFO      -     Start new block
+2024-05-27 12:28:42,024     -      INFO      -     Submit block network: NONCE:479018, Curtime: 1716787719, Hash: 000003bf5dcd2e131ee33eaa82c79a9e72fbf24a6decc36b551840dc3111fbdc, Hashrate: 187767.02047632137
+2024-05-27 12:28:42,285     -      INFO      -     Request new job from pool
+2024-05-27 12:28:42,335     -      INFO      -     Receive job from pool
+2024-05-27 12:28:42,338     -      INFO      -     Start new block
+2024-05-27 12:28:43,516     -      INFO      -     Submit block network: NONCE:222067, Curtime: 1716787722, Hash: 00000709f335c258769305637ae0f5d7fe3894f95771dc803280291568cba458, Hashrate: 206498.78935590104
+2024-05-27 12:28:43,543     -      INFO      -     Request new job from pool
+2024-05-27 12:28:43,679     -      INFO      -     Receive job from pool
+2024-05-27 12:28:43,681     -      INFO      -     Start new block
+2024-05-27 12:28:49,036     -      INFO      -     Submit block network: NONCE:979198, Curtime: 1716787723, Hash: 000007b0b50de36fdc5d8e989e0439a93a65bb7de64808fcdf87e95997400080, Hashrate: 186402.6900541246
+2024-05-27 12:28:49,056     -      INFO      -     Request new job from pool
+2024-05-27 12:28:49,196     -      INFO      -     Receive job from pool
+2024-05-27 12:28:49,197     -      INFO      -     Start new block
+2024-05-27 12:28:51,489     -      INFO      -     Submit block network: NONCE:332566, Curtime: 1716787729, Hash: 000007d669718e436580a2da6b7bb9fc9acc62a2fca503485049bf66a31b461e, Hashrate: 151915.3454528029
+2024-05-27 12:28:51,508     -      INFO      -     Request new job from pool
+2024-05-27 12:28:51,675     -      INFO      -     Receive job from pool
+2024-05-27 12:28:51,678     -      INFO      -     Start new block
+2024-05-27 12:28:53,624     -      INFO      -     Submit block network: NONCE:240531, Curtime: 1716787731, Hash: 0000039566ed0245bc26df7e3016d622bde0825474dfe0a7079fb29b1c857512, Hashrate: 130451.89102899304
+2024-05-27 12:28:53,781     -      INFO      -     Request new job from pool
+2024-05-27 13:28:07,106     -      INFO      -     Connected to 127.0.0.1:3002
+2024-05-27 13:28:07,148     -      INFO      -     Authorize error
+2024-05-27 13:28:07,149     -      WARNING      -     Please try again
+2024-05-27 13:28:12,001     -      INFO      -     Connected to 127.0.0.1:3002
+2024-05-27 13:28:12,007     -      INFO      -     Authorize error
+2024-05-27 13:28:12,007     -      WARNING      -     Please try again
+2024-05-27 13:28:14,976     -      INFO      -     Connected to 127.0.0.1:3002
+2024-05-27 13:28:14,980     -      INFO      -     Authorize error
+2024-05-27 13:28:14,980     -      WARNING      -     Please try again
+2024-05-27 13:28:33,154     -      INFO      -     Connected to 127.0.0.1:3002
+2024-05-27 13:28:33,162     -      INFO      -     Authorize error
+2024-05-27 13:28:33,162     -      WARNING      -     Please try again
+2024-05-27 13:30:31,416     -      INFO      -     Connected to 127.0.0.1:3002
+2024-05-27 13:30:31,436     -      INFO      -     Authorize success
+2024-05-27 13:30:34,321     -      INFO      -     Receive job from pool
+2024-05-27 13:30:34,321     -      INFO      -     Start new block
+2024-05-28 12:53:18,841     -      INFO      -     Connected to 127.0.0.1:3002
+2024-05-28 12:53:18,969     -      INFO      -     Authorize success
+2024-05-28 12:53:19,064     -      INFO      -     Receive job from pool
+2024-05-28 12:53:19,065     -      INFO      -     Start new block
+2024-05-28 12:53:21,682     -      INFO      -     Submit block network: NONCE:614020, Curtime: 1716791323, Hash: 0000030b799ffec46bbf19404451628134aa8164636ab1cece3a26d0718c0302, Hashrate: 244923.38539638824
